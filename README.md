@@ -18,14 +18,14 @@ Contains pcr_rapid_cases.csv, listing daily reported PCR and Rapid cases for eac
 
 Data sources:
 
- * NSW: NSW Health twitter account (https://twitter.com/NSWHealth)
- * VIC: VicGovDH twitter account (https://twitter.com/VicGovDH)
- * QLD: Queensland Health twitter account (https://twitter.com/qldhealth)
- * WA: Mark McGowan twitter account (https://twitter.com/MarkMcGowanMP). WA report PCR cases only.
- * SA: SA Health twitter account(https://twitter.com/SAHealth), rapid tests via press conferences/news reports.
- * TAS: Department of Health, Tasmania facebook account (https://www.facebook.com/HealthTas)
- * ACT: ACT Health twitter account (https://twitter.com/ACTHealth)
- * NT: Northern Territory Government media releases (https://coronavirus.nt.gov.au/updates)
+ * NSW: [@NSWHealth](https://twitter.com/NSWHealth)
+ * VIC: [@VicGovDH](https://twitter.com/VicGovDH)
+ * QLD: [@qldhealth](https://twitter.com/qldhealth)
+ * WA: [@MarkMcGowanMP](https://twitter.com/MarkMcGowanMP). WA report PCR cases only.
+ * SA: [@SAHealth](https://twitter.com/SAHealth), Rapid cases via press conferences/news reports.
+ * TAS: [Department of Health, Tasmania Facebook account](https://www.facebook.com/HealthTas)
+ * ACT: [@ACTHealth](https://twitter.com/ACTHealth)
+ * NT: [Northern Territory Government media releases](https://coronavirus.nt.gov.au/updates)
 
 Notes:
 
