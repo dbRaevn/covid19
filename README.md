@@ -46,12 +46,12 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
 The following tables outline the data available from each of the above sources.
 
 **Legend:**
-🔵W = Weekly
-🔵T = Total (available weekly)
-🟢D = Daily
-🟡A = Daily average over last 7 days
-🟡# = Mixed/complex
-🔴N = Not available
+🔵W = Weekly  
+🔵T = Total (available weekly)  
+🟢D = Daily  
+🟡A = Daily average over last 7 days  
+🟡# = Mixed/complex  
+🔴N = Not available  
 ⚪- = Not applicable
 
 \* Can be calculated or derived from other data in the same source
