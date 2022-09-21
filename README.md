@@ -37,15 +37,15 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * VIC	[Dataset - (PCR) Age](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-age-group/resource/b98245c0-f42c-4df8-bced-62f5bcde67f6)
  * VIC	[Dataset - (Total) Active  - Postcode](https://docs.google.com/spreadsheets/d/e/2PACX-1vTwXSqlP56q78lZKxc092o6UuIyi7VqOIQj6RM4QmlVPgtJZfbgzv0a3X7wQQkhNu8MFolhVwMy4VnF/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
- * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse)^1^
+ * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse)(1)
  * QLD	[Dataset - (PCR) Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
  * National	[Weekly Trends Report](https://www.health.gov.au/resources/publications/covid-19-weekly-trends-report)
 
-^1^ To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
+(1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
 
 The following tables outline the data available from each of the above sources.
 
-**Legend:**
+**Legend:**  
 🔵W = Weekly  
 🔵T = Total (available weekly)  
 🟢D = Daily  
