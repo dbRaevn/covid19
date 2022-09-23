@@ -39,6 +39,11 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse)(1)
  * QLD	[Dataset - (PCR) Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
+ * NSW	[Weekly Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
+ * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
+ * ACT	[Weekly Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
+ * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
+ * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics)
  * National	[Weekly Trends Report](https://www.health.gov.au/resources/publications/covid-19-weekly-trends-report)
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
@@ -47,6 +52,7 @@ The following tables outline the data available from each of the above sources.
 
 **Legend:**  
 🔵W = Weekly  
+🔵M = Monthly  
 🔵T = Total (available weekly)  
 🟢D = Daily  
 🟡A = Daily average over last 7 days  
@@ -64,13 +70,28 @@ The following tables outline the data available from each of the above sources.
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](./data/InformationByDataSource_20220921.PNG)
+![Information available by data source](./data/InformationByDataSource_20220923.PNG)
+
+**Notes:**
+1. Daily, weekly and total cases available by LGA via the map
+2. Weekly total cases provided as a figure, but chart contains daily new cases
+3. Contains a breakdown of deaths by age group
+4. Active cases provided as PCR/RAT/Total
+5. NSW Datasets are missing 180,433 RAT cases recorded between 12-19 January 2022
+6. Contains 1 day, weekly and total active cases by postcode
+7. Contains 1 day, weekly and total active cases by LGA
+8. Total cases only provided for 2022
+9. Cases by LGA provided as a rate per 100,000 population
+10. Total PCR and RAT cases only provided for 2022
+11. Total cases by SA3 Region only provided since 2022
+12. Total deaths only provided since 2022
+13. Cases by age provided as a rate per 100,000 population
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](./data/InformationAvailableByState_20220921.PNG)
+![Information Available by state](./data/InformationAvailableByState_20220923.PNG)
 
 ## Charts
 
