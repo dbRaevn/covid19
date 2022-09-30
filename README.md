@@ -37,16 +37,19 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * VIC	[Dataset - (PCR) Age](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-age-group/resource/b98245c0-f42c-4df8-bced-62f5bcde67f6)
  * VIC	[Dataset - (Total) Active  - Postcode](https://docs.google.com/spreadsheets/d/e/2PACX-1vTwXSqlP56q78lZKxc092o6UuIyi7VqOIQj6RM4QmlVPgtJZfbgzv0a3X7wQQkhNu8MFolhVwMy4VnF/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
- * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse)(1)
+ * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse) (1)
  * QLD	[Dataset - (PCR) Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
  * NSW	[Weekly Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
+ * TAS	[Weekly Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
  * ACT	[Weekly Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
- * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics)
- * National	[Weekly Trends Report](https://www.health.gov.au/resources/publications/covid-19-weekly-trends-report)
+ * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
+
+(2) Use the following javascript bookmark to show the datatables on this page:
+```javascript:(function () {document.querySelectorAll('[id^="hc-linkto-highcharts-data-table-"]').forEach(button=>button.click())})()```
 
 The following tables outline the data available from each of the above sources.
 
@@ -70,7 +73,7 @@ The following tables outline the data available from each of the above sources.
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](./data/InformationByDataSource_20220923.PNG)
+![Information available by data source](./data/InformationByDataSource_20220930.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -86,12 +89,24 @@ This table shows the available information that can be obtained from each offici
 11. Total cases by SA3 Region only provided since 2022
 12. Total deaths only provided since 2022
 13. Cases by age provided as a rate per 100,000 population
+14.	Totals since 15th December 2021
+15.	Some information requires accessing raw data tables
+
+**Changelog:**
+
+ - **30/09/2022**
+   - Added datasource *TAS - Weekly Surveillance Report*
+     - Weekly data for TAS now available for the following: New RAT & PCR cases, total RAT & PCR cases, cases by age and LGA since December 15th 2021, reinfections, deaths, new PCR tests, total PCR tests
+   - Removed datasource *National - Weekly Trends Report (no longer exists)*
+   - Updated datasource *National - Weekly Trends Dashboard (raw data now accessible)*
+     - National new cases, new deaths interval now daily (was 7-day average)
+
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](./data/InformationAvailableByState_20220923.PNG)
+![Information Available by state](./data/InformationAvailableByState_20220930.PNG)
 
 ## Charts
 
