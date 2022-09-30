@@ -48,7 +48,7 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
 
-(2) Use the following javascript bookmark to show the datatables on this page:
+(2) Use the following javascript bookmark to show the datatables on this page:  
 ```javascript:(function () {document.querySelectorAll('[id^="hc-linkto-highcharts-data-table-"]').forEach(button=>button.click())})()```
 
 The following tables outline the data available from each of the above sources.
