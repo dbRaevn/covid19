@@ -102,7 +102,7 @@ This table shows the available information that can be obtained from each offici
      - National new cases, new deaths interval now daily (was 7-day average)
  - **14/10/2022**
    - Update datasource *ACT - Website*
-	 - Daily data for the following: New cases, New RAT cases, New PCR cases, Active cases
+	 - Daily data now available for the following: New cases, New RAT cases, New PCR cases, Active cases
 	 
 ### Information Available by state
 
