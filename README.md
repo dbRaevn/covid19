@@ -73,7 +73,7 @@ The following tables outline the data available from each of the above sources.
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](./data/InformationByDataSource_20221014.PNG)
+![Information available by data source](./data/InformationByDataSource_20221029.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -103,12 +103,17 @@ This table shows the available information that can be obtained from each offici
  - **14/10/2022**
    - Update datasource *ACT - Website*
 	 - Daily data now available for the following: New cases, New RAT cases, New PCR cases, Active cases
-	 
+ - **29/10/2022**
+   - Update datasource *ACT - Twitter*
+	 - Active cases no longer reported
+   - Update datasource *ACT - Website*
+	 - Active cases no longer reported
+
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](./data/InformationAvailableByState_20221014.PNG)
+![Information Available by state](./data/InformationAvailableByState_20221029.PNG)
 
 ## Charts
 
