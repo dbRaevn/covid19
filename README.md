@@ -30,6 +30,7 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * NT	[Website](https://health.nt.gov.au/covid-19/data)
  * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
  * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
+ * NSW	[Dataset - (PCR) Tests](https://data.nsw.gov.au/data/dataset/nsw-covid-19-tests-by-location/resource/fb95de01-ad82-4716-ab9a-e15cf2c78556)
  * VIC	[Dataset - (RAT)](https://discover.data.vic.gov.au/dataset/all-victorian-rat-sars-cov-2-cases-by-local-government-area-postcode/resource/a7c149f8-4ad3-4768-84b3-477a054f80bb)
  * VIC	[Dataset - (PCR) Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2cases-by-acquired-source/resource/d35dd0fb-5288-4194-8f77-373e2b2cc44d)
  * VIC	[Dataset - (PCR) LGA, Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source/resource/890da9b3-0976-4de3-8028-e0c22b9a0e09)
@@ -44,6 +45,7 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * TAS	[Weekly Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
  * ACT	[Weekly Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
+ * National	[Monthly Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
  * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
@@ -73,7 +75,7 @@ The following tables outline the data available from each of the above sources.
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](./data/InformationByDataSource_20221029.PNG)
+![Information available by data source](./data/InformationByDataSource_20221030.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -90,7 +92,8 @@ This table shows the available information that can be obtained from each offici
 12. Total deaths only provided since 2022
 13. Cases by age provided as a rate per 100,000 population
 14.	Totals since 15th December 2021
-15.	Some information requires accessing raw data tables
+15.	Report includes breakdowns of deaths by age and sex, state, detail of cause
+16.	Some information requires accessing raw data tables
 
 **Changelog:**
 
@@ -108,12 +111,18 @@ This table shows the available information that can be obtained from each offici
 	 - Active cases no longer reported
    - Update datasource *ACT - Website*
 	 - Active cases no longer reported
-
+ - **30/10/2022**
+   - Added datasource *NSW - Dataset - (PCR) Tests*
+	 - Daily data now available for New & Total PCR tests
+   - Updated datasource *WA - Dashboard*
+	 - Cases by age and Cases by gender no longer reported
+   - Added datasource *National - Monthly Mortality Report*
+	
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](./data/InformationAvailableByState_20221029.PNG)
+![Information Available by state](./data/InformationAvailableByState_20221030.PNG)
 
 ## Charts
 
