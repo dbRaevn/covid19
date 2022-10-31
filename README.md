@@ -55,6 +55,12 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
 
 The following tables outline the data available from each of the above sources.
 
+**Additional Data sources:**  
+
+These do not appear in the tables as they provide other types of data, but are otherwise useful sources:
+
+ * NSW	[Weekly sewage surveillance](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance-weekly-result.aspx)
+
 **Legend:**  
 🔵W = Weekly  
 🔵M = Monthly  
