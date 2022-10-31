@@ -57,7 +57,7 @@ The following tables outline the data available from each of the above sources.
 
 **Additional Data sources:**  
 
-These do not appear in the tables as they provide other types of data, but are otherwise useful sources:
+These do not appear in the tables as they provide different kinds of data, but are otherwise useful information sources:
 
  * NSW	[Weekly sewage surveillance](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance-weekly-result.aspx)
 
@@ -123,6 +123,8 @@ This table shows the available information that can be obtained from each offici
    - Updated datasource *WA - Dashboard*
 	 - Cases by age and Cases by gender no longer reported
    - Added datasource *National - Monthly Mortality Report*
+ - **31/10/2022**
+   - Added datasource *NSW - Weekly sewage surveillance*
 	
 ### Information Available by state
 
