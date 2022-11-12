@@ -17,6 +17,7 @@ These and the rest of my work can also be found on Twitter - [@dbRaevn](https://
  * SA	[Twitter](https://twitter.com/SAHealth)
  * ACT	[Twitter](https://twitter.com/ACTHealth)
  * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
+ * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
  * VIC	[Website (Daily)](https://www.coronavirus.vic.gov.au/)
  * VIC	[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
  * VIC	[Website (Additional data)](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
@@ -81,7 +82,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](./data/InformationByDataSource_20221030.PNG)
+![Information available by data source](./data/InformationByDataSource_20221112.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -125,12 +126,14 @@ This table shows the available information that can be obtained from each offici
    - Added datasource *National - Monthly Mortality Report*
  - **31/10/2022**
    - Added datasource *NSW - Weekly sewage surveillance*
+ - **12/11/2022**
+   - Added datasource *NSW - Risk Monitoring Dashboard*
 	
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](./data/InformationAvailableByState_20221030.PNG)
+![Information Available by state](./data/InformationAvailableByState_20221112.PNG)
 
 ## Charts
 
