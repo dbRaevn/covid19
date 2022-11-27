@@ -59,10 +59,10 @@ Published | Start | End | Direction
 
 -->
 
-### Home Confinement, Movement and Gathering
+### Movement and Gatherings Directions
 
-Start | End | Restrictions | Direction | Published
----|---|---|---|---
+Start | End | Restriction Level | Direction | Published
+--:|--:|:-:|---|--:
 2020/03/19 09:59PM | 2020/03/21 06:32PM | :yellow_circle: | [Non-essential Indoor Gatherings Direction](https://www.health.qld.gov.au/system-governance/legislation/cho-public-health-directions-under-expanded-public-health-act-powers/revoked/non-essential-indoor-gatherings) | 2020/03/19 09:59PM
 2020/03/19 09:59PM | 2020/03/21 06:32PM | :yellow_circle: | [Mass Gatherings Direction](https://www.health.qld.gov.au/system-governance/legislation/cho-public-health-directions-under-expanded-public-health-act-powers/revoked/mass-gatherings-1) | 2020/03/19 09:59PM
 2020/03/21 06:32PM | 2020/03/29 11:29PM | :yellow_circle: | [Mass Gatherings Direction (No. 2)](https://www.health.qld.gov.au/system-governance/legislation/cho-public-health-directions-under-expanded-public-health-act-powers/revoked/mass-gatherings-2) | 2020/03/21 06:32PM
