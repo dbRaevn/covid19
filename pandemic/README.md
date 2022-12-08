@@ -6,10 +6,20 @@
 |---|:-:|:-:|:-:|:-:|
 | NT | [CSV](./NT/NT_PublicHealthEmergencyDeclaration.csv) | [CSV](./NT/NT_PandemicDirections.csv) | [CSV](./NT/NT_Lockdowns.csv) | [CSV](./NT/NT_LockdownPopulations.csv) |
 
-For details on definitions and what the data contained within each dataset is, refer to the following guides -
+## Datasets - Other (National)
+
+ * [AUS - Aged Care](https://github.com/dbRaevn/covid19/blob/main/pandemic/AUS_AgedCare.csv)
+
+## Datasets - Other (State)
+
+ * [VIC - Ambulance Code Red](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
+
+## Dataset Guides
+
+For details on definitions and what the data contained within each dataset is, refer to the following guides.
 
  * [NT - Dataset guide](./NT/)
-
+ 
 ## Charts - COVID-19 Public Health Directions & Lockdowns
 Circles indicate when Health Directions were published relating to mask wearing, gathering/movement restrictions, business closures and lockdowns
 
