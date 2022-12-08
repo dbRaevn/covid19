@@ -8,7 +8,7 @@
 
 For details on definitions and what the data contained within each dataset is, refer to the following guides -
 
- * [NT - Dataset guide](./NT/README.md)
+ * [NT - Dataset guide](./NT/)
 
 ## Charts - COVID-19 Public Health Directions & Lockdowns
 Circles indicate when Health Directions were published relating to mask wearing, gathering/movement restrictions, business closures and lockdowns
