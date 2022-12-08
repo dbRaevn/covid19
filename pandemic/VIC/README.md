@@ -26,7 +26,7 @@ Daily reported COVID-19 data for Victoria.
 **Sources**
 
  1. Data for `NEW_CASES_TOTAL`, `IN_HOSPITAL`, `IN_ICU`, `DEATHS`,and `PCR_TESTS` before 1st September 2022 is taken from https://covidlive.com.au/. 
- 2. Data from 1st September 2022 is collected daily from https://www.coronavirus.vic.gov.au/.
+ 2. Data for the above fields from 1st September 2022, and for all other fields, is collected daily from https://www.coronavirus.vic.gov.au/.
  
 ## Dataset - Ambulance Code Red
 [VIC_AmbulanceCodeRed.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
