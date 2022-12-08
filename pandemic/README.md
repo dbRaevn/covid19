@@ -8,11 +8,11 @@
 
 ## Datasets - Other (National)
 
- * [AUS - Aged Care](https://github.com/dbRaevn/covid19/blob/main/pandemic/AUS_AgedCare.csv)
+ * AUS - Aged Care [CSV](https://github.com/dbRaevn/covid19/blob/main/pandemic/AUS_AgedCare.csv)
 
 ## Datasets - Other (State)
 
- * [VIC - Ambulance Code Red](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
+ * VIC - Ambulance Code Red [CSV](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
 
 ## Dataset Guides
 
