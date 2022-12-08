@@ -28,7 +28,8 @@ and Environmental Health Act 2011.
  * `AMENDED_BY` - A list of Directions that amend this Direction
  * `URL` - Link to an official source containing the Direction (pdf)
 
-Possible categories include:
+**Categories**
+The Category field may include the following values
 
  * Lockdown
  * Business Closure
@@ -38,11 +39,14 @@ Possible categories include:
  * Border
  * Other
 
-A Lockdown is defined as a legal requirement to remain within your residence except for specified purposes (not including individual requirements due to circumstance such as isolation or quarantine).
+**Notes on this dataset**
 
-A Business Closure is defined as a broad requirement for non-essential businesses to close.
+ 1. A Lockdown is defined as a legal requirement to remain within your residence except for specified purposes (not including individual requirements due to circumstance such as isolation or quarantine).
+ 2. A Business Closure is defined as a broad requirement for non-essential businesses to close.
 
-A list of all NT pandemic Declarations can be found here: [Chief Health Officer directions](https://health.nt.gov.au/covid-19/restrictions/chief-health-officer-directions)
+**Sources**
+
+ 1. This dataset is collated from the list of NT pandemic Declarations found here: [Chief Health Officer directions](https://health.nt.gov.au/covid-19/restrictions/chief-health-officer-directions)
 
 ## Dataset - Lockdowns
 [NT_Lockdowns.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/NT/NT_Lockdowns.csv)
@@ -68,12 +72,14 @@ This dataset can be used to calculate the population under Lockdown Directions.
  * `AREA_TYPE` - The Type of area specified in the Direction
  * `POPULATION` - The estimated population of the area
  
-Area Types can include:
- 
+**Area Types**  
+The Area Types field may include the following values
+
  * LGA
  * State
  * Other
  
-For LGA & State area types, population estimates are based on ABS data: [Population estimates by LGA and electoral division (ASGS2021), 2001 to 2021](https://www.abs.gov.au/statistics/people/population/regional-population/2021)
+**Sources**
 
-Other areas include various definitions (localities, geographic co-ordinates, descriptive boundaries, etc.), for which approximate population estimates are obtained from [2021 Census data](https://www.abs.gov.au/census/find-census-data/search-by-area).
+ 1. For LGA & State area types, population estimates are based on ABS data: [Population estimates by LGA and electoral division (ASGS2021), 2001 to 2021](https://www.abs.gov.au/statistics/people/population/regional-population/2021)
+ 2. Other areas include various definitions (localities, geographic co-ordinates, descriptive boundaries, etc.), for which approximate population estimates are obtained from [2021 Census data](https://www.abs.gov.au/census/find-census-data/search-by-area).
