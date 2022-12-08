@@ -18,6 +18,7 @@
 
 For details on definitions and what the data contained within each dataset is, refer to the following guides.
 
+ * [VIC - Dataset guide](./VIC/)
  * [NT - Dataset guide](./NT/)
  
 ## Charts - COVID-19 Public Health Directions & Lockdowns
