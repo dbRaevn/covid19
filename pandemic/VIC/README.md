@@ -1,18 +1,6 @@
 # VIC - Dataset guide
-
-## Dataset - Ambulance Code Red
-[VIC_AmbulanceCodeRed.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
-
-A list of declared Ambulance Victoria Code Red events.
-
- * `START` - Date/Time of start of Code Red period
- * `END` - Date/Time of end of Code Red period
- * `DURATION_MIN` - How long the Code Red period lasted (in minutes)
- * `SOURCE_NEWS` - URL to news source of the Code Red period
- * `SOURCE_AMBULANCEVIC_START` - URL to announcement from @AmbulanceVic of the start of the Code Red period (Twitter)
- * `SOURCE_AMBULANCEVIC_END` - URL to announcement from @AmbulanceVic of the end of the Code Red period (Twitter)
  
-## Dataset - Daily COVID-19 data
+## Dataset - Daily COVID-19 Data
 [VIC_DailyData.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_DailyData.csv)
 
 Daily reported COVID-19 data for Victoria.
@@ -39,3 +27,15 @@ Daily reported COVID-19 data for Victoria.
 
  1. Data for `NEW_CASES_TOTAL`, `IN_HOSPITAL`, `IN_ICU`, `DEATHS`,and `PCR_TESTS` before 1st September 2022 is taken from https://covidlive.com.au/. 
  2. Data from 1st September 2022 is collected daily from https://www.coronavirus.vic.gov.au/.
+ 
+## Dataset - Ambulance Code Red
+[VIC_AmbulanceCodeRed.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
+
+A list of declared Ambulance Victoria Code Red events.
+
+ * `START` - Date/Time of start of Code Red period
+ * `END` - Date/Time of end of Code Red period
+ * `DURATION_MIN` - How long the Code Red period lasted (in minutes)
+ * `SOURCE_NEWS` - URL to news source of the Code Red period
+ * `SOURCE_AMBULANCEVIC_START` - URL to announcement from @AmbulanceVic of the start of the Code Red period (Twitter)
+ * `SOURCE_AMBULANCEVIC_END` - URL to announcement from @AmbulanceVic of the end of the Code Red period (Twitter)
