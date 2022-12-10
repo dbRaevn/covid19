@@ -28,6 +28,48 @@ Daily reported COVID-19 data for Victoria.
  1. Data for `NEW_CASES_TOTAL`, `IN_HOSPITAL`, `IN_ICU`, `DEATHS`,and `PCR_TESTS` before 1st September 2022 is taken from https://covidlive.com.au/. 
  2. Data for the above fields from 1st September 2022, and for all other fields, is collected daily from https://www.coronavirus.vic.gov.au/.
  
+## Dataset - Deaths by Age
+[VIC_DeathsByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_DeathsByAge.csv)
+
+Cumulative reported COVID-19 Deaths, broken down by age group.
+
+ * `REPORT_DATE` - Date the data was reported
+ * `DEATHS_<Age Band>` - COVID-19 deaths reported in <Age Band>, broken down by decade, 90+, and unknown age.
+ * `DEATHS_TOTAL` - Total COVID-19 deaths reported
+ * `SOURCE` - Where the data was collected from (see Sources)
+
+**Notes on this dataset**
+
+ 1. Reported deaths by age may not align with other reported total death numbers, if ages haven't yet been determined for all cases.
+ 2. Data is only present for days in which it was collected, able to be retrieved from archive.org or confirmed by cross-referencing other sources; there are significant gaps in this data.
+ 3. Hostoric deaths were sometimes removed from the total due to duplication or other reasons. Where these were reported in the media released and it was not known which age group it belonged to, a negative death was added to the Unknown age group until the totals could be re-baselined from the totals table on the DHHS site or coronavirus.vic.org.au.
+ 
+**Sources**
+
+ 1. Data is collected from a number of sources. Which datasource was used for each date is listed in the `SOURCE` field.
+ 2. The source is one of:
+    * *dhhs.vic.gov.au* - Taken from the [Case locations and outbreaks](https://www.dhhs.vic.gov.au/case-locations-and-outbreaks) page (retrieved via archive.org).
+    * *coronavirus.vic.gov.au* - Taken from the [Additional COVID-19 case data](https://www.coronavirus.vic.gov.au/additional-covid-19-case-data) page.
+    * *Media Release* - Uses the notified ages of deaths contained in the [daily Coronavirus updates](https://www.health.vic.gov.au/media-centre/media-releases) to determine the cumulative total, only where it can be reliably determined.
+    * *No Change* - No source determined, but there was no change in deaths.
+ 
+## Dataset - Hospitalised by Age
+[VIC_HospitalisedByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_HospitalisedByAge.csv)
+
+Daily number of hospitalised COVID-19 cases, broken down by age group (28th August 2020 - 10th February 2021)
+
+ * `REPORT_DATE` - Date the data was reported
+ * `HOSPITALISED_<Age Band>` - COVID-19 cases in hospital in <Age Band>, broken down by decade and 90+.
+ * `HOSPITALISED_TOTAL` - Total COVID-19 cases in hospital
+
+**Notes on this dataset**
+
+ 1. Data is only present for days in which it was collected or able to be retrieved from archive.org; there are significant gaps in this data.
+ 
+**Sources**
+
+ 1. Numbers are taken from the [Case locations and outbreaks](https://www.dhhs.vic.gov.au/case-locations-and-outbreaks) page (retrieved via archive.org). This data was present between 28th August 2020 and 10th February 2021.
+	
 ## Dataset - Ambulance Code Red
 [VIC_AmbulanceCodeRed.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
 
