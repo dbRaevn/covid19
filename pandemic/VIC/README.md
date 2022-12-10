@@ -28,7 +28,7 @@ Daily reported COVID-19 data for Victoria.
  1. Data for `NEW_CASES_TOTAL`, `IN_HOSPITAL`, `IN_ICU`, `DEATHS`,and `PCR_TESTS` before 1st September 2022 is taken from https://covidlive.com.au/. 
  2. Data for the above fields from 1st September 2022, and for all other fields, is collected daily from https://www.coronavirus.vic.gov.au/.
  
-## Dataset - Deaths by Age
+## Dataset - Cumulative COVID-19 deaths by age group
 [VIC_DeathsByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_DeathsByAge.csv)
 
 Cumulative reported COVID-19 Deaths, broken down by age group.
@@ -53,7 +53,7 @@ Cumulative reported COVID-19 Deaths, broken down by age group.
     * *Media Release* - Uses the notified ages of deaths contained in the [daily Coronavirus updates](https://www.health.vic.gov.au/media-centre/media-releases) to determine the cumulative total, only where it can be reliably determined.
     * *No Change* - No source determined, but there was no change in deaths.
  
-## Dataset - Hospitalised by Age
+## Dataset - Hospitalised COVID-19 cases by age group
 [VIC_HospitalisedByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_HospitalisedByAge.csv)
 
 Daily number of hospitalised COVID-19 cases, broken down by age group (28th August 2020 - 10th February 2021)
