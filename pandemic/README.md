@@ -45,3 +45,7 @@ Number of Directions published by category, and in effect per month
 ### NT
 
 ![NT - COVID-19 Directions](./NT/NT_Directions.png)
+
+## Media references
+
+[In the Media](./Media.md)
