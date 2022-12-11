@@ -15,7 +15,7 @@
  * VIC - Daily COVID-19 Data [(CSV)](./VIC/VIC_DailyData.csv)
  * VIC - Cumulative COVID-19 deaths by age group [(CSV)](./VIC/VIC_DeathsByAge.csv)
  * VIC - Hospitalised COVID-19 cases by age group [(CSV)](./VIC/VIC_HospitalisedByAge.csv)
- * VIC - Ambulance Code Red [(CSV)](./VIC/VIC_AmbulanceCodeRed.csv)
+ * VIC - Ambulance Code Red events [(CSV)](./VIC/VIC_AmbulanceCodeRed.csv)
 
 ## Dataset Guides
 
