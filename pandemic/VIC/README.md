@@ -70,7 +70,7 @@ Daily number of hospitalised COVID-19 cases, broken down by age group (28th Augu
 
  1. Numbers are taken from the [Case locations and outbreaks](https://www.dhhs.vic.gov.au/case-locations-and-outbreaks) page (retrieved via archive.org). This data was present between 28th August 2020 and 10th February 2021.
 	
-## Dataset - Ambulance Code Red
+## Dataset - Ambulance Code Red events
 [VIC_AmbulanceCodeRed.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_AmbulanceCodeRed.csv)
 
 A list of declared Ambulance Victoria Code Red events.
