@@ -61,7 +61,9 @@ The following tables outline the data available from each of the above sources.
 These do not appear in the tables as they provide different kinds of data, but are otherwise useful information sources:
 
  * NSW	[Weekly sewage surveillance](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance-weekly-result.aspx)
-
+ * National	[Weekly common operating picture](https://www.health.gov.au/resources/collections/coronavirus-covid-19-common-operating-picture)
+ * National	[Weekly outbreaks in Australian residential aged care facilities report](https://www.health.gov.au/resources/collections/covid-19-outbreaks-in-australian-residential-aged-care-facilities]
+ 
 **Legend:**  
 🔵W = Weekly  
 🔵M = Monthly  
@@ -128,6 +130,9 @@ This table shows the available information that can be obtained from each offici
    - Added datasource *NSW - Weekly sewage surveillance*
  - **12/11/2022**
    - Added datasource *NSW - Risk Monitoring Dashboard*
+ - **17/12/2022**
+   - Added datasource *National - Weekly common operating picture*
+   - Added datasource *National - Weekly outbreaks in Australian residential aged care facilities report*
 	
 ### Information Available by state
 
