@@ -301,7 +301,7 @@
 | 22/10/2022 |  |  |  |
 | 23/10/2022 |  |  |  |
 | 24/10/2022 |  |  |  |
-| 25/10/2022 | [(None)](https://twitter.com/dbRaevn/status/1584680730416013313) |  |  |
+| 25/10/2022 | [(No Title)](https://twitter.com/dbRaevn/status/1584680730416013313) |  |  |
 | 26/10/2022 | [VIC - Cases and testing](https://twitter.com/dbRaevn/status/1585164140917960706) |  |  |
 | 27/10/2022 | [VIC - Cases and testing](https://twitter.com/dbRaevn/status/1585420244750737408) |  |  |
 | 28/10/2022 | [VIC - Daily cases, hospitalised](https://twitter.com/dbRaevn/status/1585785956296101888) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1585895560342491138) |  |
