@@ -32,6 +32,14 @@ Also see X for official datasets
 
 -->
 
+## COVID-19 Reports (Twitter)
+
+[COVID-19 Reports (Twitter)](./Twitter.md)
+
+## Media references
+
+[In the Media](./Media.md)
+
 ## Charts - COVID-19 Public Health Directions & Lockdowns
 Circles indicate when Health Directions were published relating to mask wearing, gathering/movement restrictions, business closures and lockdowns
 
@@ -45,11 +53,3 @@ Number of Directions published by category, and in effect per month
 ### NT
 
 ![NT - COVID-19 Directions](./NT/NT_Directions.png)
-
-## COVID-19 Reports (Twitter)
-
-[COVID-19 Reports (Twitter)](./Twitter.md)
-
-## Media references
-
-[In the Media](./Media.md)
