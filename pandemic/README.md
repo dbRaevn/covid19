@@ -46,6 +46,10 @@ Number of Directions published by category, and in effect per month
 
 ![NT - COVID-19 Directions](./NT/NT_Directions.png)
 
+## COVID-19 Reports (Twitter)
+
+[COVID-19 Reports (Twitter)](./Twitter.md)
+
 ## Media references
 
 [In the Media](./Media.md)
