@@ -1,5 +1,7 @@
 # In the Media
 
+< [Back](README.md)
+
 Mentions and usage of my work in the media.
 
 | Date | Media | Title | Publication / Links |
