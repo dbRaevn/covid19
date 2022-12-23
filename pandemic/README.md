@@ -6,6 +6,8 @@
 |---|:-:|:-:|:-:|:-:|
 | NT | [CSV](./NT/NT_PublicHealthEmergencyDeclaration.csv) | [CSV](./NT/NT_PandemicDirections.csv) | [CSV](./NT/NT_Lockdowns.csv) | [CSV](./NT/NT_LockdownPopulations.csv) |
 
+(Other states in progress)
+
 ## Datasets - Other (National)
 
  * AUS - Aged Care [(CSV)](./AUS_AgedCare.csv)
