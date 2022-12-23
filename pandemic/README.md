@@ -21,8 +21,8 @@
 
 For details on definitions and what the data contained within each dataset is, refer to the following guides.
 
- * [VIC - Dataset guide](./VIC/)
- * [NT - Dataset guide](./NT/)
+ * [VIC - Dataset guide](./VIC/README.md)
+ * [NT - Dataset guide](./NT/README.md)
  
 <!--
 
