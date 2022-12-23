@@ -363,3 +363,4 @@
 | 21/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1605330416822497280) |  |  |
 | 22/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1605689333897256960) |  |  |
 | 23/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1606059162672119809) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1606164369179496448) |  |
+| 24/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1606431705417814016) |  |  |
