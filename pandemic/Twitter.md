@@ -1,5 +1,7 @@
 # COVID-19 Reports (Twitter)
 
+< [Back](README.md)
+
 ## 2022
 
 | Date | VIC COVID-19 report | National COVID-19 report | COVID-19 vaccination report |
