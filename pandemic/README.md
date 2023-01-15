@@ -39,6 +39,8 @@ For details on definitions and what the data contained within each dataset is, r
 
 [In the Media](./Media.md)
 
+[☕ Support my work](https://www.buymeacoffee.com/dbRaevn)
+
 <!--
 ## Charts - COVID-19 Public Health Directions & Lockdowns
 Circles indicate when Health Directions were published relating to mask wearing, gathering/movement restrictions, business closures and lockdowns
