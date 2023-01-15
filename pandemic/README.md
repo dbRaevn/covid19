@@ -26,16 +26,12 @@ For details on definitions and what the data contained within each dataset is, r
 
  * [VIC - Dataset guide](./VIC/README.md)
  * [NT - Dataset guide](./NT/README.md)
- 
-<!--
 
-## Official Datasets
+## Official data sources
 
-Also see X for official datasets
+[Official COVID-19 data sources](./Datasources.md)
 
--->
-
-## COVID-19 Reports (Twitter)
+## Reports (Twitter)
 
 [COVID-19 Reports (Twitter)](./Twitter.md)
 
