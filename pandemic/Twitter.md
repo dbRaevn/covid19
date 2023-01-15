@@ -1,6 +1,24 @@
 # COVID-19 Reports (Twitter)
 
 < [Back](README.md)
+## 2023
+
+| Date | VIC COVID-19 report | National COVID-19 report | 
+|:--|:-:|:-:|
+| 01/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609354123106988032) |  |
+| 02/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609695507525533697) |  |
+| 03/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1610084104413872128) |  |
+| 04/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610438146864607233) |  |
+| 05/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610783265392324609) |  |
+| 06/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1611153455590313984) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1611233480234643456) |
+| 07/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611523439923429378) |  |
+| 08/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611863801271582720) |  |
+| 09/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612217758812614656) |  |
+| 10/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612572493004537856) |  |
+| 11/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612942853046419456) |  |
+| 12/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613338607795961857) |  |
+| 13/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613725406460514307) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1613778859060768768) |
+| 14/01/2023 | [End of daily COVID-19 reporting](https://twitter.com/dbRaevn/status/1614043281788399617) |  |
 
 ## 2022
 
@@ -364,6 +382,13 @@
 | 22/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1605689333897256960) |  |  |
 | 23/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1606059162672119809) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1606164369179496448) |  |
 | 24/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1606431705417814016) |  |  |
+| 25/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1606787386691948544) |  |  |
+| 26/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1607144695804878849) |  |  |
+| 27/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1607516537698791424) |  |  |
+| 28/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1607884887373279232) |  |  |
+| 29/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1608227092965265408) |  |  |
+| 30/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1608592522909220865) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1608691833848344581) |  |
+| 31/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1608969456587530242) |  |  |
 
 ## 2021
 
