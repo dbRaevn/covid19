@@ -2,10 +2,10 @@
  
 < [Back](https://github.com/dbRaevn/covid19/blob/main/pandemic/README.md)
 
-## Dataset - Daily COVID-19 Data
+## Dataset - Daily COVID-19 Data (Discontinued)
 [VIC_DailyData.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_DailyData.csv)
 
-Daily reported COVID-19 data for Victoria.
+Daily reported COVID-19 data for Victoria. 
 
  * `REPORT_DATE` - Date the data was reported
  * `NEW_CASES_TOTAL` - Total new COVID-19 cases reported (via PCR and RAT)
@@ -55,7 +55,7 @@ Cumulative reported COVID-19 Deaths, broken down by age group.
     * *Media Release* - Uses the notified ages of deaths contained in the [daily Coronavirus updates](https://www.health.vic.gov.au/media-centre/media-releases) to determine the cumulative total, only where it can be reliably determined.
     * *No Change* - No source determined, but there was no change in deaths.
  
-## Dataset - Hospitalised COVID-19 cases by age group
+## Dataset - Hospitalised COVID-19 cases by age group (Discontinued)
 [VIC_HospitalisedByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_HospitalisedByAge.csv)
 
 Daily number of hospitalised COVID-19 cases, broken down by age group (28th August 2020 - 10th February 2021)
