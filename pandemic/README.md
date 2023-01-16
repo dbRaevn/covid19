@@ -10,7 +10,7 @@
 
 ## Datasets - Other (National)
 
- * AUS - COVID-19 data 2022 [(XLSX)](./AUS_COVID19Data2022.xlsx)
+ * AUS - COVID-19 data [(XLSX)](./AUS_COVID19Data.xlsx)
  * AUS - Aged Care [(CSV)](./AUS_AgedCare.csv)
 
 ## Datasets - Other (State)
