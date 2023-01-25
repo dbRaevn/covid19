@@ -25,3 +25,5 @@ Mentions and usage of my work in the media.
 | 07/12/2022 | Podcast | Coronacast - How do you know if a pandemic is from a lab leak? | [ABC](https://www.abc.net.au/radio/programs/coronacast/how-do-you-know-if-a-pandemic-is-from-a-lab-leak/101738642) |
 | 11/12/2022 | Article | Stubborn omicron wave sticking around for Christmas | [AFR](https://www.afr.com/policy/health-and-education/stubborn-omicron-wave-sticking-around-for-christmas-20221209-p5c56e) ([Archive](https://archive.vn/dSdJa)) |
 | 20/01/2023 | Article | Australia left with deadly fallout as COVID-19 wave fades | [AFR](https://www.afr.com/policy/health-and-education/australia-left-with-deadly-fallout-as-covid-19-wave-fades-20230120-p5ce8b) ([Archive](https://archive.md/OKyS2)) |
+| 25/01/2023 | Podcast | Coronacast - We're back! So what did we miss? | [ABC](https://www.abc.net.au/radio/programs/coronacast/we-re-back-so-what-did-we-miss/101886254) |
+
