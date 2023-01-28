@@ -17,6 +17,7 @@
  * QLD	[Website](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/queensland-covid-19-statistics)
  * WA	[Dashboard](https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768)
  * WA	[Media Release](https://ww2.health.wa.gov.au/News/Media-releases-listing-page)
+ * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
  * TAS	[Website](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics)
  * ACT	[Website (inc. detailed breakdown)](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
@@ -33,6 +34,8 @@
  * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse) (1)
  * QLD	[Dataset - (PCR) Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
+ * QLD	[Dataset - (PCR) Age](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
+ * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
  * NSW	[Weekly Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
  * TAS	[Weekly Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
@@ -74,7 +77,9 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230115.PNG)
+![Information available by data source](../data/InformationByDataSource_20230128_1.PNG)
+
+![Information available by data source](../data/InformationByDataSource_20230128_2.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -130,9 +135,13 @@ This table shows the available information that can be obtained from each offici
 	 - Includes actual values for in-hospital and in-ICU, rather than just 7-day averages
    - Updated datasource *National - Weekly Trends Dashboard*
 	 - Several changes based on availability of underlying data tables
+ - **28/01/2023**
+   - Added datasource *SA - Website*
+   - Added datasource *QLD - Dataset - (PCR) Age*
+   - Added datasource *QLD - Dataset - (PCR) Tests*
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230115.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230128.PNG)
