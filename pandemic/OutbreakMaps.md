@@ -2,6 +2,8 @@
 
 < [Back](README.md)
 
+Source images (PNG) can also be found here: 📂 [maps](https://github.com/dbRaevn/covid19/tree/main/maps)
+
 ## AUS, NSW, VIC
 
 | Date | AUS | NSW | VIC |
