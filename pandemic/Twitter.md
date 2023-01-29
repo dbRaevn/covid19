@@ -1,30 +1,166 @@
 # COVID-19 Reports (Twitter)
 
 < [Back](README.md)
-## 2023
 
-| Date | VIC COVID-19 report | National COVID-19 report | 
-|:--|:-:|:-:|
-| 01/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609354123106988032) |  |
-| 02/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609695507525533697) |  |
-| 03/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1610084104413872128) |  |
-| 04/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610438146864607233) |  |
-| 05/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610783265392324609) |  |
-| 06/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1611153455590313984) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1611233480234643456) |
-| 07/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611523439923429378) |  |
-| 08/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611863801271582720) |  |
-| 09/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612217758812614656) |  |
-| 10/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612572493004537856) |  |
-| 11/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612942853046419456) |  |
-| 12/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613338607795961857) |  |
-| 13/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613725406460514307) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1613778859060768768) |
-| 14/01/2023 | [End of daily COVID-19 reporting](https://twitter.com/dbRaevn/status/1614043281788399617) |  |
-| 15/01/2023 |  |  |
-| 16/01/2023 |  |  |
-| 17/01/2023 |  |  |
-| 18/01/2023 |  |  |
-| 19/01/2023 |  |  |
-| 20/01/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1616338639608504321) |
+## 2021
+
+| Date | VIC COVID-19 report | National COVID-19 report | COVID-19 vaccination report |
+|:--|:-:|:-:|:-:|
+| 30/07/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421068730264481796) |
+| 31/07/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421355766196293633) |
+| 01/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421700022790332419) |
+| 02/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422057892350357509) |
+| 03/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422413723747045376) |
+| 04/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422780475433635841) |
+| 05/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423143270155120640) |
+| 06/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423504946641596422) |
+| 07/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423885616823947266) |
+| 08/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424231001203433473) |
+| 09/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424595721802567685) |
+| 10/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424960947844648962) |
+| 11/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1425322675090563076) |
+| 12/08/2021 |  |  |  |
+| 13/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426036714112380936) |
+| 14/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426401681525264385) |
+| 15/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426764147451056133) |
+| 16/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427185793643081734) |
+| 17/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427537343062319108) |
+| 18/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427864665548197890) |
+| 19/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428218169202601986) |
+| 20/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428575024231841796) |
+| 21/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1428944892118507524) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428939878859886596) |
+| 22/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1429325249372295171) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1429304959258882057) |
+| 23/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1429645896744988674) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1429664510986493958) |
+| 24/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430014449662922777) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430028311699222528) |
+| 25/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430391722807152642) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430433036814872578) |
+| 26/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430802268434042883) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430757598685327367) |
+| 27/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431098368311189506) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431122383457292290) |
+| 28/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431549012801310722) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431472441172234240) |
+| 29/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431810050272628741) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431843360893902853) |
+| 30/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432190610568409091) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432249957298294791) |
+| 31/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432538953916182530) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432601565328646144) |
+| 01/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432940451707772928) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432996357585788933) |
+| 02/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1433385731494318086) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1433318456854663170) |
+| 03/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1433716841201864707) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1433680208637227010) |
+| 04/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434029729439358979) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434036384394661891) |
+| 05/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434358063620755462) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434404862964297733) |
+| 06/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434784462600957957) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434787687806865410) |
+| 07/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435231319353614340) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435145437321699328) |
+| 08/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435473478862270466) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435501134458744832) |
+| 09/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435802916372180992) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435873764089077762) |
+| 10/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1436225709786107952) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1436230995695472642) |
+| 11/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1436535650728120320) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1436571802159833097) |
+| 12/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437007041982197760) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1436916953826820098) |
+| 13/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437274666893078528) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1437291473255342086) |
+| 14/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437669433384706052) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1437721962097176577) |
+| 15/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437973007679455235) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1438018584463044610) |
+| 16/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1438437176820203520) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1438382643951779840) |
+| 17/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1438700075035754497) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1438743942237802496) |
+| 18/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439065241959075845) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439120061772353536) |
+| 19/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439441822917423105) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439500783309897733) |
+| 20/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439779755872555008) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439860478499450882) |
+| 21/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440146739990650882) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440233138832101378) |
+| 22/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440508861987708935) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440577075274928135) |
+| 23/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440886168430669827) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440946041096851459) |
+| 24/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1441235089170464769) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1441299688318128137) |
+| 25/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1441592014064160772) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1441669288268492802) |
+| 26/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1442089792955576324) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442076137580945410) |
+| 27/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1442319397796806662) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442378217709441028) |
+| 28/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1442724877845204996) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442756105487077377) |
+| 29/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443040101244702720) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443113211625041925) |
+| 30/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443406811374047234) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443460304617103362) |
+| 01/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443919197659013126) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443824021741572098) |
+| 02/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444128994543034369) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1444164159633965058) |
+| 03/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444494177891340295) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1444520821590872069) |
+| 04/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444836467251892226) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1444893322468679680) |
+| 05/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445206157925122050) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445214440471687175) |
+| 06/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445565211969085445) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445573555383517187) |
+| 07/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445941848627765252) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445967059108564995) |
+| 08/10/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1446342960392462336) |
+| 09/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1446648434232942598) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1446690793398308865) |
+| 10/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447136372788133889) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447032212772118532) |
+| 11/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447397651557748736) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447423956911202304) |
+| 12/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447821466393669633) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447767827167866881) |
+| 13/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448155010777317378) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448143034713919495) |
+| 14/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448459403422666753) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448518156134150147) |
+| 15/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448822669613285376) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448870104364511241) |
+| 16/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449324739256721413) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449219441472860164) |
+| 17/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449542055965782018) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449569071033319425) |
+| 18/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449910034276646921) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449943894641168390) |
+| 19/10/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1450303187320066050) |
+| 20/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1450617971030716420) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1450681713252651009) |
+| 21/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1450993465903308863) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451036708196130816) |
+| 22/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1451460008751681540) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451390152580894725) |
+| 23/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1451713691313864713) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451754165940592640) |
+| 24/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452083450417016835) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452137862426628101) |
+| 25/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452432900775813122) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452471410341793792) |
+| 26/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452800741278564353) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452890684151644160) |
+| 27/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453245193117913091) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453225585740767232) |
+| 28/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453545979261554690) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453584613582901248) |
+| 29/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453889519636205568) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453923978771251213) |
+| 30/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454298368939724808) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1454311861126533123) |
+| 31/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454601736308473858) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1454656725915627521) |
+| 01/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454964497555214344) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455091982913531907) |
+| 02/11/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455396143689441285) |
+| 03/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1455683008481017856) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455832273467494404) |
+| 04/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456073922852626433) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456127501789368329) |
+| 05/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456422394306994177) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456577656573423617) |
+| 06/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456811424022368266) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456831181689745413) |
+| 07/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457193138565439496) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457284498031198210) |
+| 08/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457507182375702531) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457589369976459270) |
+| 09/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457877775549808641) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457989152461393924) |
+| 10/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458245916700254208) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1458331752313671680) |
+| 11/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458605199803568129) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1458678236477493248) |
+| 12/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458987288029892609) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459104285178793987) |
+| 13/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1459348619106996227) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459366626348785668) |
+| 14/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1459825543377874949) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459717854232674314) |
+| 15/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1460041346459127810) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460149769158811648) |
+| 16/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1460405646885412866) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460557703965646850) |
+| 17/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1460780431289184257) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460829662108471302) |
+| 18/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461136763036917767) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461238493670035458) |
+| 19/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461512987672395776) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461566983489478657) |
+| 20/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461890962158862336) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461918572968509447) |
+| 21/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462263961827430404) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462269009538080770) |
+| 22/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462587328182898693) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462645892599595009) |
+| 23/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462942887797145602) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462995061671555072) |
+| 24/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1463306680536469504) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1463385681367949312) |
+| 25/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1463685789057896449) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1463745604366979075) |
+| 26/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464032040194502656) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464144863826354176) |
+| 27/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464491283238449157) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464495718740025352) |
+| 28/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464761830878842885) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464774081132187648) |
+| 29/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465124699445235718) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465203253344288770) |
+| 30/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465563313438289925) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465612780296278017) |
+| 01/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465845382324260864) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465933010264416262) |
+| 02/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466250652594565121) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466285721308700675) |
+| 03/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466601765604790285) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466625743987699714) |
+| 04/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466964782154543106) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466968288785616905) |
+| 05/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1467388967611891713) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1467397162262614016) |
+| 06/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1467700948713623555) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1467795437583171588) |
+| 07/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468015753555103748) |  |  |
+| 08/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468532262333403137) |  |  |
+| 09/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468873417537384452) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1468879047174148105) |
+| 10/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469142569367920641) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469266125171003392) |
+| 11/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469468839901499398) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469505363636416512) |
+| 12/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469830137742970880) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469859137064345603) |
+| 13/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470212623668895748) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470236071631863808) |
+| 14/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470566215189876739) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470606836432736257) |
+| 15/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470925475149058048) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470981159613964289) |
+| 16/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1471395049011249152) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1471398425539141637) |
+| 17/12/2021 | [(No Title)](https://twitter.com/dbRaevn/status/1471701623315439620) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1471677638053806085) |
+| 18/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472007061047169026) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472050814508154881) |
+| 19/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472452777527812097) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472447292586094593) |
+| 20/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472728777574604800) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472810517383159808) |
+| 21/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473216167665823744) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473217989642051588) |
+| 22/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473457567326109700) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473516967499735040) |
+| 23/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473834313816809473) | [(No Title)](https://twitter.com/dbRaevn/status/1473910315054104576) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473877321698267136) |
+| 24/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1474303986287013889) | [(No Title)](https://twitter.com/dbRaevn/status/1474235449019305994) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1474249995947692034) |
+| 25/12/2021 |  |  |  |
+| 26/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1474949718497120257) | [AUS - New cases, case rate and positivity](https://twitter.com/dbRaevn/status/1474993515721490433) | [Australian COVID-19 vaccination coverage (animated)](https://twitter.com/dbRaevn/status/1475028703784554500) |
+| 27/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1475298198671400962) | [AUS - New cases, case rate and positive test %](https://twitter.com/dbRaevn/status/1475414349439070209) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1475296079788724227) |
+| 28/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1475721721093111810) | [AUS - New cases, case rate and positive test %](https://twitter.com/dbRaevn/status/1475736063825965060) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1475719507788255236) |
+| 29/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476008346897371136) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476077647469838336) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476048434343731202) |
+| 30/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476364966202527744) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476431257537945600) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476437011514871808) |
+| 31/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476720788514349058) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476772483366006786) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476732986099847169) |
 
 ## 2022
 
@@ -396,162 +532,25 @@
 | 30/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1608592522909220865) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1608691833848344581) |  |
 | 31/12/2022 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1608969456587530242) |  |  |
 
-## 2021
+## 2023
 
-| Date | VIC COVID-19 report | National COVID-19 report | COVID-19 vaccination report |
-|:--|:-:|:-:|:-:|
-| 30/07/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421068730264481796) |
-| 31/07/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421355766196293633) |
-| 01/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1421700022790332419) |
-| 02/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422057892350357509) |
-| 03/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422413723747045376) |
-| 04/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1422780475433635841) |
-| 05/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423143270155120640) |
-| 06/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423504946641596422) |
-| 07/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1423885616823947266) |
-| 08/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424231001203433473) |
-| 09/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424595721802567685) |
-| 10/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1424960947844648962) |
-| 11/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1425322675090563076) |
-| 12/08/2021 |  |  |  |
-| 13/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426036714112380936) |
-| 14/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426401681525264385) |
-| 15/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1426764147451056133) |
-| 16/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427185793643081734) |
-| 17/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427537343062319108) |
-| 18/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1427864665548197890) |
-| 19/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428218169202601986) |
-| 20/08/2021 |  |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428575024231841796) |
-| 21/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1428944892118507524) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1428939878859886596) |
-| 22/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1429325249372295171) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1429304959258882057) |
-| 23/08/2021 | [VIC dataset review - linked and unlinked](https://twitter.com/dbRaevn/status/1429645896744988674) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1429664510986493958) |
-| 24/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430014449662922777) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430028311699222528) |
-| 25/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430391722807152642) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430433036814872578) |
-| 26/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1430802268434042883) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1430757598685327367) |
-| 27/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431098368311189506) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431122383457292290) |
-| 28/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431549012801310722) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431472441172234240) |
-| 29/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1431810050272628741) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1431843360893902853) |
-| 30/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432190610568409091) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432249957298294791) |
-| 31/08/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432538953916182530) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432601565328646144) |
-| 01/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1432940451707772928) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1432996357585788933) |
-| 02/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1433385731494318086) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1433318456854663170) |
-| 03/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1433716841201864707) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1433680208637227010) |
-| 04/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434029729439358979) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434036384394661891) |
-| 05/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434358063620755462) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434404862964297733) |
-| 06/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1434784462600957957) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1434787687806865410) |
-| 07/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435231319353614340) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435145437321699328) |
-| 08/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435473478862270466) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435501134458744832) |
-| 09/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1435802916372180992) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1435873764089077762) |
-| 10/09/2021 | [VIC - Linked and Isolating cases](https://twitter.com/dbRaevn/status/1436225709786107952) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1436230995695472642) |
-| 11/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1436535650728120320) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1436571802159833097) |
-| 12/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437007041982197760) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1436916953826820098) |
-| 13/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437274666893078528) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1437291473255342086) |
-| 14/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437669433384706052) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1437721962097176577) |
-| 15/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1437973007679455235) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1438018584463044610) |
-| 16/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1438437176820203520) |  | [Australian COVID-19 response roadmap](https://twitter.com/dbRaevn/status/1438382643951779840) |
-| 17/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1438700075035754497) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1438743942237802496) |
-| 18/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439065241959075845) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439120061772353536) |
-| 19/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439441822917423105) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439500783309897733) |
-| 20/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1439779755872555008) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1439860478499450882) |
-| 21/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440146739990650882) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440233138832101378) |
-| 22/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440508861987708935) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440577075274928135) |
-| 23/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1440886168430669827) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1440946041096851459) |
-| 24/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1441235089170464769) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1441299688318128137) |
-| 25/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1441592014064160772) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1441669288268492802) |
-| 26/09/2021 | [VIC - Linked and unlinked cases](https://twitter.com/dbRaevn/status/1442089792955576324) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442076137580945410) |
-| 27/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1442319397796806662) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442378217709441028) |
-| 28/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1442724877845204996) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1442756105487077377) |
-| 29/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443040101244702720) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443113211625041925) |
-| 30/09/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443406811374047234) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443460304617103362) |
-| 01/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1443919197659013126) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1443824021741572098) |
-| 02/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444128994543034369) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1444164159633965058) |
-| 03/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444494177891340295) |  | [Australian COVID-19 vaccination roadmap](https://twitter.com/dbRaevn/status/1444520821590872069) |
-| 04/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1444836467251892226) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1444893322468679680) |
-| 05/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445206157925122050) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445214440471687175) |
-| 06/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445565211969085445) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445573555383517187) |
-| 07/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1445941848627765252) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1445967059108564995) |
-| 08/10/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1446342960392462336) |
-| 09/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1446648434232942598) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1446690793398308865) |
-| 10/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447136372788133889) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447032212772118532) |
-| 11/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447397651557748736) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447423956911202304) |
-| 12/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1447821466393669633) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1447767827167866881) |
-| 13/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448155010777317378) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448143034713919495) |
-| 14/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448459403422666753) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448518156134150147) |
-| 15/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1448822669613285376) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1448870104364511241) |
-| 16/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449324739256721413) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449219441472860164) |
-| 17/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449542055965782018) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449569071033319425) |
-| 18/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1449910034276646921) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1449943894641168390) |
-| 19/10/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1450303187320066050) |
-| 20/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1450617971030716420) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1450681713252651009) |
-| 21/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1450993465903308863) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451036708196130816) |
-| 22/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1451460008751681540) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451390152580894725) |
-| 23/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1451713691313864713) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1451754165940592640) |
-| 24/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452083450417016835) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452137862426628101) |
-| 25/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452432900775813122) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452471410341793792) |
-| 26/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1452800741278564353) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1452890684151644160) |
-| 27/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453245193117913091) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453225585740767232) |
-| 28/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453545979261554690) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453584613582901248) |
-| 29/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1453889519636205568) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1453923978771251213) |
-| 30/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454298368939724808) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1454311861126533123) |
-| 31/10/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454601736308473858) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1454656725915627521) |
-| 01/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1454964497555214344) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455091982913531907) |
-| 02/11/2021 |  |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455396143689441285) |
-| 03/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1455683008481017856) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1455832273467494404) |
-| 04/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456073922852626433) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456127501789368329) |
-| 05/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456422394306994177) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456577656573423617) |
-| 06/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1456811424022368266) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1456831181689745413) |
-| 07/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457193138565439496) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457284498031198210) |
-| 08/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457507182375702531) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457589369976459270) |
-| 09/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1457877775549808641) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1457989152461393924) |
-| 10/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458245916700254208) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1458331752313671680) |
-| 11/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458605199803568129) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1458678236477493248) |
-| 12/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1458987288029892609) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459104285178793987) |
-| 13/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1459348619106996227) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459366626348785668) |
-| 14/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1459825543377874949) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1459717854232674314) |
-| 15/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1460041346459127810) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460149769158811648) |
-| 16/11/2021 | [VIC - Cases](https://twitter.com/dbRaevn/status/1460405646885412866) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460557703965646850) |
-| 17/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1460780431289184257) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1460829662108471302) |
-| 18/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461136763036917767) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461238493670035458) |
-| 19/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461512987672395776) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461566983489478657) |
-| 20/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1461890962158862336) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1461918572968509447) |
-| 21/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462263961827430404) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462269009538080770) |
-| 22/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462587328182898693) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462645892599595009) |
-| 23/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1462942887797145602) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1462995061671555072) |
-| 24/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1463306680536469504) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1463385681367949312) |
-| 25/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1463685789057896449) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1463745604366979075) |
-| 26/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464032040194502656) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464144863826354176) |
-| 27/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464491283238449157) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464495718740025352) |
-| 28/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1464761830878842885) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1464774081132187648) |
-| 29/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465124699445235718) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465203253344288770) |
-| 30/11/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465563313438289925) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465612780296278017) |
-| 01/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1465845382324260864) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1465933010264416262) |
-| 02/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466250652594565121) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466285721308700675) |
-| 03/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466601765604790285) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466625743987699714) |
-| 04/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1466964782154543106) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1466968288785616905) |
-| 05/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1467388967611891713) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1467397162262614016) |
-| 06/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1467700948713623555) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1467795437583171588) |
-| 07/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468015753555103748) |  |  |
-| 08/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468532262333403137) |  |  |
-| 09/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1468873417537384452) |  | [Australian COVID-19 vaccination roadmap (16+)](https://twitter.com/dbRaevn/status/1468879047174148105) |
-| 10/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469142569367920641) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469266125171003392) |
-| 11/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469468839901499398) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469505363636416512) |
-| 12/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1469830137742970880) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1469859137064345603) |
-| 13/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470212623668895748) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470236071631863808) |
-| 14/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470566215189876739) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470606836432736257) |
-| 15/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1470925475149058048) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1470981159613964289) |
-| 16/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1471395049011249152) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1471398425539141637) |
-| 17/12/2021 | [(No Title)](https://twitter.com/dbRaevn/status/1471701623315439620) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1471677638053806085) |
-| 18/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472007061047169026) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472050814508154881) |
-| 19/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472452777527812097) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472447292586094593) |
-| 20/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1472728777574604800) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1472810517383159808) |
-| 21/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473216167665823744) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473217989642051588) |
-| 22/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473457567326109700) |  | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473516967499735040) |
-| 23/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1473834313816809473) | [(No Title)](https://twitter.com/dbRaevn/status/1473910315054104576) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1473877321698267136) |
-| 24/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1474303986287013889) | [(No Title)](https://twitter.com/dbRaevn/status/1474235449019305994) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1474249995947692034) |
-| 25/12/2021 |  |  |  |
-| 26/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1474949718497120257) | [AUS - New cases, case rate and positivity](https://twitter.com/dbRaevn/status/1474993515721490433) | [Australian COVID-19 vaccination coverage (animated)](https://twitter.com/dbRaevn/status/1475028703784554500) |
-| 27/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1475298198671400962) | [AUS - New cases, case rate and positive test %](https://twitter.com/dbRaevn/status/1475414349439070209) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1475296079788724227) |
-| 28/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1475721721093111810) | [AUS - New cases, case rate and positive test %](https://twitter.com/dbRaevn/status/1475736063825965060) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1475719507788255236) |
-| 29/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476008346897371136) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476077647469838336) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476048434343731202) |
-| 30/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476364966202527744) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476431257537945600) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476437011514871808) |
-| 31/12/2021 | [Victorian daily case overview](https://twitter.com/dbRaevn/status/1476720788514349058) | [AUS - Overview](https://twitter.com/dbRaevn/status/1476772483366006786) | [Australian COVID-19 vaccination coverage](https://twitter.com/dbRaevn/status/1476732986099847169) |
+| Date | VIC COVID-19 report | National COVID-19 report | 
+|:--|:-:|:-:|
+| 01/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609354123106988032) |  |
+| 02/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1609695507525533697) |  |
+| 03/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1610084104413872128) |  |
+| 04/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610438146864607233) |  |
+| 05/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1610783265392324609) |  |
+| 06/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1611153455590313984) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1611233480234643456) |
+| 07/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611523439923429378) |  |
+| 08/01/2023 | [No daily data released](https://twitter.com/dbRaevn/status/1611863801271582720) |  |
+| 09/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612217758812614656) |  |
+| 10/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612572493004537856) |  |
+| 11/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1612942853046419456) |  |
+| 12/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613338607795961857) |  |
+| 13/01/2023 | [VIC - Daily COVID-19 report](https://twitter.com/dbRaevn/status/1613725406460514307) | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1613778859060768768) |
+| 14/01/2023 | [End of daily COVID-19 reporting](https://twitter.com/dbRaevn/status/1614043281788399617) |  |
+| ... |  |  |
+| 20/01/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1616338639608504321) |
+| ... |  |  |
+| 27/01/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1618866042897563649) |
