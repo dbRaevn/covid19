@@ -1,5 +1,9 @@
 # Australian COVID-19 Pandemic Information
 
+A compilation of datasets, official data sources, reports, outbreak maps and other content I have created related to the COVID-19 pandemic in Australia.
+
+[☕ Support my work](https://www.buymeacoffee.com/dbRaevn)
+
 ## Datasets - Pandemic Directions
 
 | State | Declarations | Directions | Lockdowns | Lockdown Populations |
@@ -42,8 +46,6 @@ For details on definitions and what the data contained within each dataset is, r
 ## Media references
 
 [In the Media](./Media.md)
-
-[☕ Support my work](https://www.buymeacoffee.com/dbRaevn)
 
 <!--
 ## Charts - COVID-19 Public Health Directions & Lockdowns
