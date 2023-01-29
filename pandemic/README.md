@@ -33,7 +33,11 @@ For details on definitions and what the data contained within each dataset is, r
 
 ## Reports (Twitter)
 
-[COVID-19 Reports (Twitter)](./Twitter.md)
+[Australian COVID-19 Reports (Twitter)](./Twitter.md)
+
+## Outbreak Maps
+
+[Australian COVID-19 Outbreak Maps](./OutbreakMaps.md)
 
 ## Media references
 
