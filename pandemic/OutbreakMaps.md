@@ -51,19 +51,19 @@
 | 10/07/2021 |  |  | [VIC - Lockdown 4](https://twitter.com/dbRaevn/status/1413726928796741633) |
 | 11/07/2021 |  |  | [VIC - Lockdown 4](https://twitter.com/dbRaevn/status/1414047391519363078) |
 | 12/07/2021 |  |  |  |
-| 13/07/2021 | [Australian Covid outbreaks since May 2021](https://twitter.com/dbRaevn/status/1414911457217507329) |  |  |
+| 13/07/2021 | [Australian COVID-19 outbreaks](https://twitter.com/dbRaevn/status/1414911457217507329) |  |  |
 | 14/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1415243271027101696) , [VIC - Lockdown 4](https://twitter.com/dbRaevn/status/1415253421741920256) |
 | 15/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1415531029067034642) |
 | 16/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1415961075741196289) , [VIC - Lockdown 4 (Final)](https://twitter.com/dbRaevn/status/1416015920569274369) |
 | 17/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1416241682874474496) |
-| 18/07/2021 | [Australian Covid outbreaks since May 2021](https://twitter.com/dbRaevn/status/1416677529570594822) |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1416597121118085120) |
+| 18/07/2021 | [Australian COVID-19 outbreaks](https://twitter.com/dbRaevn/status/1416677529570594822) |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1416597121118085120) |
 | 19/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1417023002495963136) |
 | 20/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1417379361926221825) |
 | 21/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1417727460834086913) |
 | 22/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1418072990076399617) |
 | 23/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1418472095281913856) |
 | 24/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1418843903415914496) |
-| 25/07/2021 | [Australian Covid outbreaks since May 2021](https://twitter.com/dbRaevn/status/1419192830245756931) |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1419153578736820228) |
+| 25/07/2021 | [Australian COVID-19 outbreaks](https://twitter.com/dbRaevn/status/1419192830245756931) |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1419153578736820228) |
 | 26/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1419569925740318722) |
 | 27/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1419933866047930368) |
 | 28/07/2021 |  |  | [VIC - Lockdown 5](https://twitter.com/dbRaevn/status/1420296749877325833) |
