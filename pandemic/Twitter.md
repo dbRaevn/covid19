@@ -1,4 +1,4 @@
-# COVID-19 Reports (Twitter)
+# Australian COVID-19 Reports (Twitter)
 
 < [Back](README.md)
 
