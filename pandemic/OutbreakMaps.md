@@ -188,13 +188,13 @@
 | 11/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1425414912738619405) |  |  |  |  |
 | 12/08/2021 |  |  |  |  |  |
 | 13/08/2021 |  |  |  |  |  |
-| 14/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1426442810295652352) |  | [ACT COVID-19 Map - Gungahlin Cluster](https://twitter.com/dbRaevn/status/1426447333332426753) |  |  |
-| 15/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1426735553584668675) |  | [ACT COVID-19 Map - Gungahlin Cluster](https://twitter.com/dbRaevn/status/1426777822975041542) |  |  |
-| 16/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427165492486176769) |  | [ACT COVID-19 Map - Gungahlin Cluster](https://twitter.com/dbRaevn/status/1427221064115908608) |  |  |
-| 17/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427543841112870912) |  | [ACT COVID-19 Map - Gungahlin Cluster](https://twitter.com/dbRaevn/status/1427570726144409600) |  |  |
-| 18/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427871841901694978) | [SA COVID-19 Map - Modbury Cluster (Final)](https://twitter.com/dbRaevn/status/1427881477883056132) |  |  | [New Zealand COVID-19 Map - Auckland Cluster](https://twitter.com/dbRaevn/status/1427930546504491019) |
-| 19/08/2021 |  |  |  |  | [New Zealand COVID-19 Map - Auckland Cluster](https://twitter.com/dbRaevn/status/1428303337959542784) |
-| 20/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1428535817845153796) |  |  |  | [New Zealand COVID-19 Map - Auckland Cluster](https://twitter.com/dbRaevn/status/1428683548177747968) |
+| 14/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1426442810295652352) |  | [ACT - Gungahlin Outbreak](https://twitter.com/dbRaevn/status/1426447333332426753) |  |  |
+| 15/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1426735553584668675) |  | [ACT - Gungahlin Outbreak](https://twitter.com/dbRaevn/status/1426777822975041542) |  |  |
+| 16/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427165492486176769) |  | [ACT - Gungahlin Outbreak](https://twitter.com/dbRaevn/status/1427221064115908608) |  |  |
+| 17/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427543841112870912) |  | [ACT - Gungahlin Outbreak](https://twitter.com/dbRaevn/status/1427570726144409600) |  |  |
+| 18/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1427871841901694978) | [SA - Modbury Outbreak (Final)](https://twitter.com/dbRaevn/status/1427881477883056132) |  |  | [NZ - Auckland Outbreak](https://twitter.com/dbRaevn/status/1427930546504491019) |
+| 19/08/2021 |  |  |  |  | [NZ - Auckland Outbreak](https://twitter.com/dbRaevn/status/1428303337959542784) |
+| 20/08/2021 | [QLD - Indooroopilly Outbreak](https://twitter.com/dbRaevn/status/1428535817845153796) |  |  |  | [NZ - Auckland Outbreak](https://twitter.com/dbRaevn/status/1428683548177747968) |
 | 21/08/2021 |  |  |  |  |  |
 | 22/08/2021 |  |  |  |  |  |
 | 23/08/2021 |  |  |  |  |  |
@@ -211,3 +211,4 @@
 | 03/09/2021 |  |  |  |  |  |
 | 04/09/2021 |  |  |  |  |  |
 | 05/09/2021 |  |  |  |  |  |
+
