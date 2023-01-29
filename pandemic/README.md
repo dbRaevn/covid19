@@ -19,10 +19,13 @@ A compilation of datasets, official data sources, reports, outbreak maps and oth
 
 ## Datasets - Other (State)
 
- * VIC - Daily COVID-19 Data [(CSV)](./VIC/VIC_DailyData.csv)
  * VIC - Cumulative COVID-19 deaths by age group [(CSV)](./VIC/VIC_DeathsByAge.csv)
- * VIC - Hospitalised COVID-19 cases by age group [(CSV)](./VIC/VIC_HospitalisedByAge.csv)
  * VIC - Ambulance Code Red events [(CSV)](./VIC/VIC_AmbulanceCodeRed.csv)
+
+### Discontinued datasets
+
+ * VIC - Daily COVID-19 Data [(CSV)](./VIC/VIC_DailyData.csv)
+ * VIC - Hospitalised COVID-19 cases by age group [(CSV)](./VIC/VIC_HospitalisedByAge.csv)
 
 ## Dataset Guides
 
