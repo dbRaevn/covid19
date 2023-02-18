@@ -15,7 +15,6 @@
  * VIC	[Website (Additional data)](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
  * VIC	[Media Release](https://www.health.vic.gov.au/media-centre/media-releases)
  * QLD	[Website](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/queensland-covid-19-statistics)
- * WA	[Dashboard](https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768)
  * WA	[Media Release](https://ww2.health.wa.gov.au/News/Media-releases-listing-page)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
@@ -24,7 +23,6 @@
  * NT	[Website](https://health.nt.gov.au/covid-19/data)
  * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
  * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
- * NSW	[Dataset - (PCR) Tests](https://data.nsw.gov.au/data/dataset/nsw-covid-19-tests-by-location/resource/fb95de01-ad82-4716-ab9a-e15cf2c78556)
  * VIC	[Dataset - (RAT)](https://discover.data.vic.gov.au/dataset/all-victorian-rat-sars-cov-2-cases-by-local-government-area-postcode/resource/a7c149f8-4ad3-4768-84b3-477a054f80bb)
  * VIC	[Dataset - (PCR) Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2cases-by-acquired-source/resource/d35dd0fb-5288-4194-8f77-373e2b2cc44d)
  * VIC	[Dataset - (PCR) LGA, Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source/resource/890da9b3-0976-4de3-8028-e0c22b9a0e09)
@@ -36,10 +34,10 @@
  * QLD	[Dataset - (PCR) Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
  * QLD	[Dataset - (PCR) Age](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
  * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
- * NSW	[Weekly Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
+ * NSW	[Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
- * TAS	[Weekly Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
- * ACT	[Weekly Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
+ * TAS	[Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
+ * ACT	[Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
  * National	[Monthly Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
  * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
@@ -77,9 +75,9 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230128_1.PNG)
+![Information available by data source](../data/InformationByDataSource_20230218_1.PNG)
 
-![Information available by data source](../data/InformationByDataSource_20230128_2.PNG)
+![Information available by data source](../data/InformationByDataSource_20230218_2.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -98,6 +96,7 @@ This table shows the available information that can be obtained from each offici
 14.	Totals since 15th December 2021
 15.	Report includes breakdowns of deaths by age and sex, state, detail of cause
 16.	Some information requires accessing raw data tables
+17.	TAS only provides new admissions for hospital and ICU, not in-Hospital and in-ICU numbers
 
 **Changelog:**
 
@@ -139,6 +138,18 @@ This table shows the available information that can be obtained from each offici
    - Added datasource *SA - Website*
    - Added datasource *QLD - Dataset - (PCR) Age*
    - Added datasource *QLD - Dataset - (PCR) Tests*
+ - **18/02/2023**
+   - Removed datasource *WA - Dashboard*
+   - Removed datasource *NSW - Dataset - (PCR) Tests*
+   - Updated datasource *NSW - Surveillance Report*
+	 - PCR testing information no longer provided
+   - Updated datasource *TAS - Website*
+	 - Hospital data now based on admissions
+   - Updated datasource *TAS - Surveillance Report*
+	 - Hospital data now based on admissions
+	 - Frequency now fortnightly
+
+
 
 ### Information Available by state
 
