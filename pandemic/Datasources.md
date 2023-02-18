@@ -155,4 +155,4 @@ This table shows the available information that can be obtained from each offici
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230128.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230218.PNG)
