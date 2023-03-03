@@ -562,3 +562,5 @@
 | 17/02/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1626494961381441536) |
 | ... |  |  |
 | 24/02/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1629017227952537600) |
+| ... |  |  |
+| 03/03/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1631535608245149696) |
