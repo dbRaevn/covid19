@@ -6,9 +6,7 @@
 
  * NSW	[Twitter](https://twitter.com/NSWHealth)
  * VIC	[Twitter](https://twitter.com/VicGovDH)
- * WA	[Twitter](https://twitter.com/MarkMcGowanMP)
  * SA	[Twitter](https://twitter.com/SAHealth)
- * ACT	[Twitter](https://twitter.com/ACTHealth)
  * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
  * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
  * VIC	[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
@@ -19,7 +17,7 @@
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
  * TAS	[Website](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics)
- * ACT	[Website (inc. detailed breakdown)](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
+ * ACT	[Website](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * NT	[Website](https://health.nt.gov.au/covid-19/data)
  * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
  * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
@@ -75,9 +73,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230218_1.PNG)
-
-![Information available by data source](../data/InformationByDataSource_20230218_2.PNG)
+![Information available by data source](../data/InformationByDataSource_20230401.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -148,11 +144,17 @@ This table shows the available information that can be obtained from each offici
    - Updated datasource *TAS - Surveillance Report*
 	 - Hospital data now based on admissions
 	 - Frequency now fortnightly
-
-
+ - **01/04/2023**
+   - Removed datasource *ACT - Twitter*
+   - Removed datasource *WA - Twitter*
+   - Updated datasource *ACT - Website*
+	 - Daily case breakdown no longer provided
+	 - PCR and RAT total cases no longer provided
+   - Updated datasource *SA - Website*
+	 - Hospitalised, ICU and Vent no longer provided
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230218.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230401.PNG)
