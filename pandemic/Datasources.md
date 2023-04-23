@@ -21,11 +21,8 @@
  * NT	[Website](https://health.nt.gov.au/covid-19/data)
  * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
  * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
- * VIC	[Dataset - (RAT)](https://discover.data.vic.gov.au/dataset/all-victorian-rat-sars-cov-2-cases-by-local-government-area-postcode/resource/a7c149f8-4ad3-4768-84b3-477a054f80bb)
- * VIC	[Dataset - (PCR) Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2cases-by-acquired-source/resource/d35dd0fb-5288-4194-8f77-373e2b2cc44d)
- * VIC	[Dataset - (PCR) LGA, Source](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area-postcode-and-acquired-source/resource/890da9b3-0976-4de3-8028-e0c22b9a0e09)
- * VIC	[Dataset - (PCR) LGA](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-local-government-area/resource/cc6d89f4-046c-4486-b4a9-63a58fcf9785)
- * VIC	[Dataset - (PCR) Age](https://discover.data.vic.gov.au/dataset/all-victorian-sars-cov-2-cases-by-age-group/resource/b98245c0-f42c-4df8-bced-62f5bcde67f6)
+ * VIC	[Dataset - (PCR, RAT) Age](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/0783f3ec-497c-4892-aa96-50762c7b2ccb)
+ * VIC	[Dataset - (PCR, RAT) Location](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/bcebb71b-9318-4afc-b2a3-ccd38ad31287)
  * VIC	[Dataset - (Total) Active  - Postcode](https://docs.google.com/spreadsheets/d/e/2PACX-1vTwXSqlP56q78lZKxc092o6UuIyi7VqOIQj6RM4QmlVPgtJZfbgzv0a3X7wQQkhNu8MFolhVwMy4VnF/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
  * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse) (1)
@@ -73,7 +70,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230401.PNG)
+![Information available by data source](../data/InformationByDataSource_20230423.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -152,9 +149,17 @@ This table shows the available information that can be obtained from each offici
 	 - PCR and RAT total cases no longer provided
    - Updated datasource *SA - Website*
 	 - Hospitalised, ICU and Vent no longer provided
+ - **23/04/2023**
+   - Removed datasource *VIC - Dataset - (RAT)*
+   - Removed datasource *VIC - Dataset - (PCR) Source*
+   - Removed datasource *VIC - Dataset - (PCR) LGA, Source*
+   - Removed datasource *VIC - Dataset - (PCR) LGA*
+   - Removed datasource *VIC - Dataset - (PCR) Age*
+   - Added datasource *VIC - Dataset - (PCR, RAT) Age*
+   - Added datasource *VIC - Dataset - (PCR, RAT) Location*
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230401.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230423.PNG)
