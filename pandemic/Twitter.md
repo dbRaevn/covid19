@@ -574,3 +574,11 @@
 | 31/03/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1641707899746668545) |
 | ... |  |  |
 | 07/04/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1644211921800028160) |
+| ... |  |  |
+| 14/04/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1646776569434890242) |
+| ... |  |  |
+| 21/04/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1649340148302364672) |
+| ... |  |  |
+| 28/04/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1651841407940952066) |
+| ... |  |  |
+| 05/05/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1654364919486382083) |
