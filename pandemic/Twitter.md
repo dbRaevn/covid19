@@ -586,3 +586,5 @@
 | 12/05/2023 |  | [National weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1656929304331304960) |
 | ... |  |  |
 | 19/05/2023 |  | [Australian weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1659393595076644864) |
+| ... |  |  |
+| 26/05/2023 |  | [Australian weekly COVID-19 overview](https://twitter.com/dbRaevn/status/1661920030022402060) |
