@@ -35,7 +35,7 @@
  * ACT	[Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
  * National	[Monthly Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
- * National	[Weekly Trends Dashboard](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
+ * National	[Weekly case numbers and statistics](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
 
@@ -170,7 +170,7 @@ This table shows the available information that can be obtained from each offici
    - Reinstated datasource  *QLD - Dataset - (PCR) Age*
    - Reinstated datasource  *QLD - Dataset - (PCR) Tests*
    - Added datasource *QLD - Surveillance Report*
-
+   - Separated datasource "Weekly case numbers and statistics" into National / Per-state data
 
 ### Information Available by state
 
