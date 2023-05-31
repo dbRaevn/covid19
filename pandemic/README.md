@@ -9,6 +9,7 @@ A compilation of datasets, official data sources, reports, outbreak maps and oth
 | State | Declarations | Directions | Lockdowns | Lockdown Populations |
 |---|:-:|:-:|:-:|:-:|
 | NT | [CSV](./NT/NT_PublicHealthEmergencyDeclaration.csv) | [CSV](./NT/NT_PandemicDirections.csv) | [CSV](./NT/NT_Lockdowns.csv) | [CSV](./NT/NT_LockdownPopulations.csv) |
+| VIC | |  [CSV](./NT/NT_PandemicDirections_Partial.csv) (Partial) | | |
 
 (Other states in progress)
 
