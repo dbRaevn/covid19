@@ -15,8 +15,8 @@ An overview of the states is given in the below diagram, however there are many 
 
 The primary metric for NSW is beds occupied, reported in the following locations:
 
-**Twitter:** https://twitter.com/NSWHealth
-**Website:** https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx
+**Twitter:** https://twitter.com/NSWHealth  
+**Website:** https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx  
 
  - Patients in hospital include cases on the ward and in ICUs <sup>[1]</sup>
  - Patients are only counted if admitted to hospital within 14 days of symptom onset <sup>[1]</sup>
@@ -32,7 +32,7 @@ The primary metric for NSW is beds occupied, reported in the following locations
 
 #### References
 
-[1] [COVID-19 Monitor (10/02/2022)](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0006/702825/20220210-COVID-19-Monitor.pdf)
+[1] [COVID-19 Monitor (10/02/2022)](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0006/702825/20220210-COVID-19-Monitor.pdf)  
 [2] [COVID-19 Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
 
 ------------
@@ -41,8 +41,8 @@ The primary metric for NSW is beds occupied, reported in the following locations
 
 The primary metric for VIC is beds occupied, reported in the following locations:
 
-**Twitter:** https://twitter.com/VicGovDH (7-day rolling average)
-**Website:** https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data (7-day rolling average)
+**Twitter:** https://twitter.com/VicGovDH (7-day rolling average)  
+**Website:** https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data (7-day rolling average)  
 **Media Releases:** https://www.health.vic.gov.au/media-centre/media-releases (7-day rolling average, current)
 
  - The duration for which cases are counted (only while active or for the duration of their hospital stay) is not yet confirmed via an official source.
@@ -66,7 +66,7 @@ The primary metric for VIC is beds occupied, reported in the following locations
 
 The primary metric for QLD is beds occupied, reported in the following location:
 
-**Weekly Report:** https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu
+**Weekly Report:** https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu  
 
  - The weekly report only includes a graph with no numerical figures able to be accurately obtained.
  - Includes patients with a laboratory confirmed COVID-19 test during an overnight stay of at least one night in a Queensland Health public hospital <sup>[1]</sup>
@@ -89,8 +89,8 @@ The ABC also receive a "Patients in Hospital" metric that does not appear to be 
 
 The primary metric for WA is beds occupied, reported in the following locations:
 
-**Media Releases:** https://www.health.wa.gov.au/News/Media-releases-listing-page
-**Weekly Surveillance Report:** https://www.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report
+**Media Releases:** https://www.health.wa.gov.au/News/Media-releases-listing-page  
+**Weekly Surveillance Report:** https://www.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report  
 
  - Includes active and cleared COVID-19 cases that are current hospital inpatients. <sup>[1]</sup>
  - The reason for admission may be unrelated to COVID-19 for some people. <sup>[1]</sup>
@@ -105,9 +105,9 @@ The primary metric for WA is beds occupied, reported in the following locations:
 
 The primary metric for SA is beds occupied, reported in the following locations:
 
-**Twitter:** https://twitter.com/SAHealth
-**Website:** https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard
-**Media Releases:** https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+june+2023
+**Twitter:** https://twitter.com/SAHealth  
+**Website:** https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard  
+**Media Releases:** https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+june+2023  
 
  - The duration for which cases are counted (only while active or for the duration of their hospital stay) is not yet known.
 
@@ -117,8 +117,8 @@ The primary metric for SA is beds occupied, reported in the following locations:
 
 The primary metric for TAS is new admissions, reported in the following locations:
 
-**Website:** https://www.health.tas.gov.au/health-topics/coronavirus-covid-19/current-risk-level-and-statistics/weekly-statistics
-**Weekly Surveillance Report:** https://www.health.tas.gov.au/publications/respiratory-surveillance-report
+**Website:** https://www.health.tas.gov.au/health-topics/coronavirus-covid-19/current-risk-level-and-statistics/weekly-statistics  
+**Weekly Surveillance Report:** https://www.health.tas.gov.au/publications/respiratory-surveillance-report  
 
 #### Changes in definition
 
@@ -130,8 +130,8 @@ The primary metric for TAS is new admissions, reported in the following location
 
 The primary metric for QLD is beds occupied, reported in the following locations:
 
-**Website:** https://www.covid19.act.gov.au/updates/act-covid-19-statistics
-**Weekly Report:** Latest report linked on Website
+**Website:** https://www.covid19.act.gov.au/updates/act-covid-19-statistics  
+**Weekly Report:** Latest report linked on Website  
 
  - Hospitalisation is defined as a person admitted to an ACT hospital for any reason and does not differentiate between a person admitted for COVID-19 related reasons or for other reasons.<sup>[1]</sup>
   - Reporting includes hospitalised active cases only. <sup>[1]</sup>
@@ -151,6 +151,6 @@ The primary metric for QLD is beds occupied, reported in the following locations
 
 The primary metric for NT is beds occupied, reported in the following locations:
 
-**Website:** https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data
+**Website:** https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data  
 
  - The duration for which cases are counted (only while active or for the duration of their hospital stay) is not yet known.
