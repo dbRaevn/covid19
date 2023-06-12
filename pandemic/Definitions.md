@@ -1,4 +1,4 @@
-# Official COVID-19 Data  definitions
+# Official COVID-19 data definitions
 
 < [Back](README.md)
 
