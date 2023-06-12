@@ -39,9 +39,9 @@ For details on definitions and what the data contained within each dataset is, r
 
 [Official COVID-19 data sources](./Datasources.md)
 
-## Official data  definitions
+## Official data definitions
 
-[Official COVID-19 Data  definitions](./Definitions.md)
+[Official COVID-19 data definitions](./Definitions.md)
 
 ## Reports (Twitter)
 
