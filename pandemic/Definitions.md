@@ -165,7 +165,7 @@ Beds occupied by active COVID-19 cases.
 #### Reporting
 
  - [Website](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)  
- - Weekly Report -Latest report linked on Website  
+ - Weekly Report - Latest report linked on Website  
 
 #### References
 
