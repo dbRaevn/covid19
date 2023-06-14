@@ -27,8 +27,8 @@ Beds occupied by patients admitted within 14 days of symptom onset.
 
 #### Reporting
 
-[Twitter](https://twitter.com/NSWHealth)  
-[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)  
+ - [Twitter](https://twitter.com/NSWHealth)  
+ - [Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)  
 
 #### Other metrics
 
@@ -56,9 +56,9 @@ Beds occupied by active COVID-19 cases.
 
 #### Reporting
 
-[Twitter](https://twitter.com/VicGovDH) (7-day rolling average)  
-[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data) (7-day rolling average)  
-[Media Releases](https://www.health.vic.gov.au/media-centre/media-releases) (7-day rolling average, current)  
+ - [Twitter](https://twitter.com/VicGovDH) (7-day rolling average)  
+ - [Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data) (7-day rolling average)  
+ - [Media Releases](https://www.health.vic.gov.au/media-centre/media-releases) (7-day rolling average, current)  
 
 #### Other metrics
 
@@ -85,11 +85,11 @@ Beds occupied by active or cleared COVID-19 cases.
 
 #### Reporting
 
-[Weekly Report](https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu)  
+ - [Weekly Report](https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu)  
 
 The ABC also receive a "Patients in Hospital" metric that does not appear to be publicly available, but is reported in their weekly case numbers article.
 
-[ABC](https://www.abc.net.au/news/2023-06-09/covid-19-case-numbers-from-around-the-states-and-territories/102460882#qld) (7-day rolling average)
+ - [ABC](https://www.abc.net.au/news/2023-06-09/covid-19-case-numbers-from-around-the-states-and-territories/102460882#qld) (7-day rolling average)
 
 #### References
 
@@ -108,8 +108,8 @@ Beds occupied by active or cleared COVID-19 cases.
 
 #### Reporting
 
-[Media Releases](https://www.health.wa.gov.au/News/Media-releases-listing-page)  
-[Weekly Surveillance Report](https://www.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)  
+ - [Media Releases](https://www.health.wa.gov.au/News/Media-releases-listing-page)  
+ - [Weekly Surveillance Report](https://www.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)  
 
 #### References
 
@@ -127,9 +127,9 @@ Beds occupied by COVID-19 cases.
 
 #### Reporting
 
-[Twitter](https://twitter.com/SAHealth)  
-[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)  
-[Media Releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+june+2023)  
+ - [Twitter](https://twitter.com/SAHealth)  
+ - [Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)  
+ - [Media Releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+june+2023)  
 
 ------------
 
@@ -145,8 +145,8 @@ New admissions of COVID-19 cases to hospital
 
 #### Reporting
 
-[Website](https://www.health.tas.gov.au/health-topics/coronavirus-covid-19/current-risk-level-and-statistics/weekly-statistics)  
-[Weekly Surveillance Report](https://www.health.tas.gov.au/publications/respiratory-surveillance-report)  
+ - [Website](https://www.health.tas.gov.au/health-topics/coronavirus-covid-19/current-risk-level-and-statistics/weekly-statistics)  
+ - [Weekly Surveillance Report](https://www.health.tas.gov.au/publications/respiratory-surveillance-report)  
 
 ------------
 
@@ -164,8 +164,8 @@ Beds occupied by active COVID-19 cases.
 
 #### Reporting
 
-[Website](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)  
-[Weekly Report](Latest report linked on Website  
+ - [Website](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)  
+ - Weekly Report -Latest report linked on Website  
 
 #### References
 
@@ -181,4 +181,4 @@ Beds occupied by COVID-19 cases.
 
 #### Reporting
 
-[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)  
+ - [Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)  
