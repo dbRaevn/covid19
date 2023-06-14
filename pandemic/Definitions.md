@@ -152,6 +152,8 @@ New admissions of COVID-19 cases to hospital
 
 ### Australian Capital Territory
 
+#### Definition
+
 Beds occupied by active COVID-19 cases.
 
   - Hospitalisation is defined as a person admitted to an ACT hospital for any reason and does not differentiate between a person admitted for COVID-19 related reasons or for other reasons.<sup>[1]</sup>
@@ -174,6 +176,8 @@ Beds occupied by active COVID-19 cases.
 ------------
 
 ### Northern Territory
+
+#### Definition
 
 Beds occupied by COVID-19 cases.
 
