@@ -4,8 +4,8 @@
 
 ## Hospitalised Cases
 
-Different states and territories use different definitions when reporting "Hospitalised cases". This page outlines the definitions used in state-based reporting.
-Some states report multiple different metrics in different reports. Here we are looking at the primary "Hospitalised" metric given in weekly reporting, however where other metrics are reported these will be indicated also.
+Different states and territories use different definitions when reporting "Hospitalised cases"; this page outlines the definitions used in state-based reporting.
+Some states report multiple different metrics in different reports - here we are looking at the primary "Hospitalised" metric given in weekly reporting, however where other metrics are reported these will be indicated also.
 
 An overview of the states is given in the below diagram, however there are many more subtle differences between states that this doesn't capture. For more detail, see the section for each respective state.
 
@@ -147,6 +147,10 @@ New admissions of COVID-19 cases to hospital
 
  - [Website](https://www.health.tas.gov.au/health-topics/coronavirus-covid-19/current-risk-level-and-statistics/weekly-statistics)  
  - [Weekly Surveillance Report](https://www.health.tas.gov.au/publications/respiratory-surveillance-report)  
+
+#### Other metrics
+
+ - Tasmania appears to have continued reporting beds occupied for the federal reported numbers.
 
 ------------
 
