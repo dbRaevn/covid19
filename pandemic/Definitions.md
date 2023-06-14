@@ -52,7 +52,7 @@ Beds occupied by active COVID-19 cases.
 
 #### Definition changes
 
- - From DD/MM/YYYY, reporting via Twitter and on the Victorian COVID-19 data website changed from current to 7-day rolling average.
+ - From 16/09/2022, reporting via Twitter and on the Victorian COVID-19 data website changed from current to 7-day rolling average.
 
 #### Reporting
 
