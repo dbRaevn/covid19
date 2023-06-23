@@ -9,7 +9,7 @@ Some states report multiple different metrics in different reports - here we are
 
 An overview of the states is given in the below diagram, however there are many more subtle differences between states that this doesn't capture. For more detail, see the section for each respective state.
 
-![Hospitalised Cases definitions by state](../data/HospitalisedDefinitionByState_20230612.PNG)
+![Hospitalised Cases definitions by state](../data/HospitalisedDefinitionByState_20230623.PNG)
 
 ### New South Wales
 
@@ -183,9 +183,9 @@ Beds occupied by active COVID-19 cases.
 
 #### Definition
 
-Beds occupied by COVID-19 cases.
+Beds occupied by active COVID-19 cases.
 
- - The duration for which cases are counted (only while active or for the duration of their hospital stay) is not yet known.
+ - "Patients are counted for the duration of their active COVID-19 infection and not their entire hospital stay. If they are in hospital before being infected with COVID-19 or remain in hospital after recovering from COVID-19, those dates are not included."
 
 #### Reporting
 
