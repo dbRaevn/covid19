@@ -33,8 +33,8 @@
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
  * TAS	[Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
  * ACT	[Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
- * National	[Monthly Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
- * National	[Monthly Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
+ * National	[Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
+ * National	[Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
  * National	[Weekly case numbers and statistics](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
 
 (1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
@@ -47,7 +47,6 @@
 These do not appear in the tables as they provide different kinds of data, but are otherwise useful information sources:
 
  * NSW	[Weekly sewage surveillance](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance-weekly-result.aspx)
- * National	[Weekly common operating picture](https://www.health.gov.au/resources/collections/coronavirus-covid-19-common-operating-picture)
  * National	[Weekly outbreaks in Australian residential aged care facilities report](https://www.health.gov.au/resources/collections/covid-19-outbreaks-in-australian-residential-aged-care-facilities)
  
 **Legend:**  
@@ -70,7 +69,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230527.PNG)
+![Information available by data source](../data/InformationByDataSource_20230709.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -91,6 +90,7 @@ This table shows the available information that can be obtained from each offici
 16. Some information requires accessing raw data tables
 17. TAS only provides new admissions for hospital and ICU, not in-Hospital and in-ICU numbers
 18. All data provided in graph form only
+18. VIC is no longer collecting RAT cases as of 1st July 2023, however existing RAT cases are still included
 
 **Changelog:**
 
@@ -171,9 +171,20 @@ This table shows the available information that can be obtained from each offici
    - Reinstated datasource  *QLD - Dataset - (PCR) Tests*
    - Added datasource *QLD - Surveillance Report*
    - Separated datasource "Weekly case numbers and statistics" into National / Per-state data
+ - **09/07/2023**
+   - Updated datasource  *VIC - Dataset - (PCR, RAT) Age*
+	 -  VIC no longer collecting RAT cases
+   - Updated datasource  *VIC - Dataset - (PCR, RAT) Location*
+	 -  VIC no longer collecting RAT cases
+   - Updated datasource  *VIC - Website*
+	 -  Removed New RAT Cases
+   - Updated datasource  *TAS - Surveillance Report*
+	 -  Removed Reinfections
+   - Updated datasource  *Mortality Report*
+	 -  Frequency changed to Bi-Monthly
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230527.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230709.PNG)
