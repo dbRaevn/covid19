@@ -5,13 +5,11 @@
 ## Data sources
 
  * NSW	[Twitter](https://twitter.com/NSWHealth)
- * VIC	[Twitter](https://twitter.com/VicGovDH)
  * SA	[Twitter](https://twitter.com/SAHealth)
  * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
  * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
  * VIC	[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
  * VIC	[Website (Additional data)](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
- * VIC	[Media Release](https://www.health.vic.gov.au/media-centre/media-releases)
  * WA	[Media Release](https://ww2.health.wa.gov.au/News/Media-releases-listing-page)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
@@ -69,7 +67,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230709.PNG)
+![Information available by data source](../data/InformationByDataSource_20230729.PNG)
 
 **Notes:**
 1. Daily, weekly and total cases available by LGA via the map
@@ -182,9 +180,21 @@ This table shows the available information that can be obtained from each offici
 	 -  Removed Reinfections
    - Updated datasource  *Mortality Report*
 	 -  Frequency changed to Bi-Monthly
+ - **29/07/2023**
+   - Removed datasource  *VIC - Twitter*
+   - Removed datasource  *VIC - Media Release*
+   - Updated datasource  *SA - Twitter*
+	 -  Reporting period updated
+	 -  New RAT Cases, New PCR Cases, Active Cases, Total Cases, Vent, Total Deaths, New PCR Tests no longer reported
+   - Updated datasource  *SA - Website*
+	 -  Reporting period updated
+	 -  Cases by LGA no longer reported
+   - Updated datasource  *SA - Media Release*
+	 -  Reporting period updated
+	 -  New RAT Cases, New PCR Cases, Active Cases no longer reported
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230709.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230729.PNG)
