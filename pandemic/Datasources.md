@@ -8,8 +8,6 @@
  * SA	[Twitter](https://twitter.com/SAHealth)
  * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
  * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
- * VIC	[Website](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
- * VIC	[Website (Additional data)](https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)
  * WA	[Media Release](https://ww2.health.wa.gov.au/News/Media-releases-listing-page)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
@@ -18,11 +16,6 @@
  * NT	[Website](https://health.nt.gov.au/covid-19/data)
  * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
  * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
- * VIC	[Dataset - (PCR, RAT) Age](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/0783f3ec-497c-4892-aa96-50762c7b2ccb)
- * VIC	[Dataset - (PCR, RAT) Location](https://discover.data.vic.gov.au/dataset/victorian-coronavirus-data/resource/bcebb71b-9318-4afc-b2a3-ccd38ad31287)
- * VIC	[Dataset - (Total) Active  - Postcode](https://docs.google.com/spreadsheets/d/e/2PACX-1vTwXSqlP56q78lZKxc092o6UuIyi7VqOIQj6RM4QmlVPgtJZfbgzv0a3X7wQQkhNu8MFolhVwMy4VnF/pub?gid=0&single=true&output=csv)
- * VIC	[Dataset - (Total) Active  - LGA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9oKYNQhJ6v85dQ9qsybfMfc-eaJ9oKVDZKx-VGUr6szNoTbvsLTzpEaJ3oW_LZTklZbz70hDBUt-d/pub?gid=0&single=true&output=csv)
- * VIC	[Dataset - (Total) Age, Gender](https://public.tableau.com/views/GenderAgeGroup/CasesDashboard?%3Alanguage=en-US&%3Aembed=y&%3Aembed_code_version=3&%3AloadOrderID=4&%3Adisplay_count=y&publish=yes&%3Aorigin=viz_share_link&%3Asize=1056%2C25&&%3AshowVizHome=n&%3Atabs=n&%3AapiID=host2#navType=1&navSrc=Parse) (1)
  * QLD	[Dataset - Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
  * QLD	[Dataset - Age](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
  * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
@@ -33,11 +26,9 @@
  * ACT	[Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
  * National	[Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
  * National	[Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
- * National	[Weekly case numbers and statistics](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (2)
+ * National	[Weekly case numbers and statistics](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (1)
 
-(1) To download this dataset, select then deselect an age group. This will enabled the "Data" option under downloads, allowing the dataset to be downloaded as a csv.
-
-(2) Use the following javascript bookmark to show the datatables on this page:  
+(1) Use the following javascript bookmark to show the datatables on this page:  
 ```javascript:(function () {document.querySelectorAll('[id^="hc-linkto-highcharts-data-table-"]').forEach(button=>button.click())})()```
 
 **Additional Data sources:**  
@@ -67,28 +58,22 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230729.PNG)
+![Information available by data source](../data/InformationByDataSource_20230804.PNG)
 
 **Notes:**
-1. Daily, weekly and total cases available by LGA via the map
-2. Weekly total cases provided as a figure, but chart contains daily new cases
-3. Contains a breakdown of deaths by age group
-4. Active cases provided as PCR/RAT/Total
-5. NSW Datasets are missing 180,433 RAT cases recorded between 12-19 January 2022
-6. Contains 1 day, weekly and total active cases by postcode
-7. Contains 1 day, weekly and total active cases by LGA
-8. Total cases only provided for 2022
-9. Cases by LGA provided as a rate per 100,000 population
-10. Total PCR and RAT cases only provided for 2022
-11. Total cases by SA3 Region only provided since 2022
-12. Total deaths only provided since 2022
-13. Cases by age provided as a rate per 100,000 population
-14. Totals since 15th December 2021
-15. Report includes breakdowns of deaths by age and sex, state, detail of cause
-16. Some information requires accessing raw data tables
-17. TAS only provides new admissions for hospital and ICU, not in-Hospital and in-ICU numbers
-18. All data provided in graph form only
-18. VIC is no longer collecting RAT cases as of 1st July 2023, however existing RAT cases are still included
+1. Active cases provided as PCR/RAT/Total
+2. NSW Datasets are missing 180,433 RAT cases recorded between 12-19 January 2022
+3. Total cases only provided for 2022
+4. Cases by LGA provided as a rate per 100,000 population
+5. Total PCR and RAT cases only provided for 2022
+6. Total cases by SA3 Region only provided since 2022
+7. Total deaths only provided since 2022
+8. Cases by age provided as a rate per 100,000 population
+9. Totals since 15th December 2021
+10. Report includes breakdowns of deaths by age and sex, state, detail of cause
+11. Some information requires accessing raw data tables
+12. TAS only provides new admissions for hospital and ICU, not in-Hospital and in-ICU numbers
+13. All data provided in graph form only
 
 **Changelog:**
 
@@ -192,9 +177,17 @@ This table shows the available information that can be obtained from each offici
    - Updated datasource  *SA - Media Release*
 	 -  Reporting period updated
 	 -  New RAT Cases, New PCR Cases, Active Cases no longer reported
+ - **04/08/2023**
+	 -  Removed datasource  *VIC - Website*
+	 -  Removed datasource  *VIC - Website (Additional data)*
+	 -  Removed datasource  *VIC - Dataset - (PCR, RAT) Age*
+	 -  Removed datasource  *VIC - Dataset - (PCR, RAT) Location*
+	 -  Removed datasource  *VIC - Dataset - (Total) Active  - Postcode*
+	 -  Removed datasource  *VIC - Dataset - (Total) Active  - LGA*
+	 -  Removed datasource  *VIC - Dataset - (Total) Age, Gender*
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230729.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230804.PNG)
