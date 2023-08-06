@@ -30,7 +30,7 @@ Daily reported COVID-19 data for Victoria.
  1. Data for `NEW_CASES_TOTAL`, `IN_HOSPITAL`, `IN_ICU`, `DEATHS`,and `PCR_TESTS` before 1st September 2022 is taken from https://covidlive.com.au/. 
  2. Data for the above fields from 1st September 2022, and for all other fields, is collected daily from https://www.coronavirus.vic.gov.au/.
  
-## Dataset - Cumulative COVID-19 deaths by age group
+## Dataset - Cumulative COVID-19 deaths by age group (Discontinued)
 [VIC_DeathsByAge.csv](https://github.com/dbRaevn/covid19/blob/main/pandemic/VIC/VIC_DeathsByAge.csv)
 
 Cumulative reported COVID-19 Deaths, broken down by age group.
