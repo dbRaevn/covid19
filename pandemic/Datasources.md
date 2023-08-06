@@ -52,7 +52,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
  * There may be nuances and/or caveats to the data that aren't indicated.
  * Additional metrics may be capturable by comparing week-on-week or day-on-day data (eg., cumulative totals).
- * Surveillance reports and vaccination data are not yet included.
+ * Vaccination data is not included.
 
 ### Information available by data source
 
