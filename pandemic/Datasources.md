@@ -40,7 +40,7 @@ These do not appear in the tables as they provide different kinds of data, but a
  
 **Legend:**  
 🔵W = Weekly  
-🔵F = Fortnightly
+🔵F = Fortnightly  
 🔵M = Monthly  
 🔵T = Total (available weekly)  
 🟢D = Daily  
