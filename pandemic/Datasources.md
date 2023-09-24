@@ -8,7 +8,6 @@
  * SA	[Twitter](https://twitter.com/SAHealth)
  * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
  * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
- * WA	[Media Release](https://ww2.health.wa.gov.au/News/Media-releases-listing-page)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
  * TAS	[Website](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics)
@@ -20,6 +19,7 @@
  * QLD	[Dataset - Age](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
  * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
  * NSW	[Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
+ * VIC	[Surveillance Report](https://www.health.vic.gov.au/infectious-diseases/victorian-covid-19-surveillance-report)
  * QLD	[Surveillance Report](https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu)
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
  * TAS	[Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
@@ -40,6 +40,7 @@ These do not appear in the tables as they provide different kinds of data, but a
  
 **Legend:**  
 🔵W = Weekly  
+🔵F = Fortnightly
 🔵M = Monthly  
 🔵T = Total (available weekly)  
 🟢D = Daily  
@@ -58,7 +59,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230804.PNG)
+![Information available by data source](../data/InformationByDataSource_20230924.PNG)
 
 **Notes:**
 1. Active cases provided as PCR/RAT/Total
@@ -177,17 +178,25 @@ This table shows the available information that can be obtained from each offici
    - Updated datasource  *SA - Media Release*
 	 -  Reporting period updated
 	 -  New RAT Cases, New PCR Cases, Active Cases no longer reported
- - **04/08/2023**
-	 -  Removed datasource  *VIC - Website*
-	 -  Removed datasource  *VIC - Website (Additional data)*
-	 -  Removed datasource  *VIC - Dataset - (PCR, RAT) Age*
-	 -  Removed datasource  *VIC - Dataset - (PCR, RAT) Location*
-	 -  Removed datasource  *VIC - Dataset - (Total) Active  - Postcode*
-	 -  Removed datasource  *VIC - Dataset - (Total) Active  - LGA*
-	 -  Removed datasource  *VIC - Dataset - (Total) Age, Gender*
+ - **24/09/2023**
+   - Removed datasource  *VIC - Website*
+   - Removed datasource  *VIC - Website (Additional data)*
+   - Removed datasource  *VIC - Dataset - (PCR, RAT) Age*
+   - Removed datasource  *VIC - Dataset - (PCR, RAT) Location*
+   - Removed datasource  *VIC - Dataset - (Total) Active  - Postcode*
+   - Removed datasource  *VIC - Dataset - (Total) Active  - LGA*
+   - Removed datasource  *VIC - Dataset - (Total) Age, Gender*
+   - Added datasource  *VIC - Surveillance Report*
+   - Updated datasource NSW - Risk Monitoring Dashboard
+	 -  Reporting period updated (now fortnightly)
+   - Removed datasource WA - Media Release
+   - Updated datasource NT - Website
+	 -  Release cycle and reporting period updated (now fortnightly)
+   - Updated datasource TAS - Website
+	 -  Active cases no longer reported
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230804.PNG)
+![Information Available by state](../data/InformationAvailableByState_20230924.PNG)
