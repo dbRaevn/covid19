@@ -4,10 +4,7 @@
 
 ## Data sources
 
- * NSW	[Twitter](https://twitter.com/NSWHealth)
  * SA	[Twitter](https://twitter.com/SAHealth)
- * NSW	[Website](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx)
- * NSW	[Risk Monitoring Dashboard](https://aci.health.nsw.gov.au/covid-19/critical-intelligence-unit/dashboard)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
  * TAS	[Website](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics)
@@ -20,7 +17,6 @@
  * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
  * NSW	[Surveillance Report](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/weekly-reports.aspx)
  * VIC	[Surveillance Report](https://www.health.vic.gov.au/infectious-diseases/victorian-covid-19-surveillance-report)
- * QLD	[Surveillance Report](https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/diseases-infection/surveillance/reports/flu)
  * WA	[Weekly Surveillance Report](https://ww2.health.wa.gov.au/Articles/F_I/Infectious-disease-data/COVID19-Weekly-Surveillance-Report)
  * TAS	[Surveillance Report](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics/weekly-report)
  * ACT	[Surveillance Report](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
@@ -35,7 +31,6 @@
 
 These do not appear in the tables as they provide different kinds of data, but are otherwise useful information sources:
 
- * NSW	[Weekly sewage surveillance](https://www.health.nsw.gov.au/Infectious/covid-19/Pages/sewage-surveillance-weekly-result.aspx)
  * National	[Weekly outbreaks in Australian residential aged care facilities report](https://www.health.gov.au/resources/collections/covid-19-outbreaks-in-australian-residential-aged-care-facilities)
  
 **Legend:**  
@@ -59,7 +54,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20230924.PNG)
+![Information available by data source](../data/InformationByDataSource_20231028.PNG)
 
 **Notes:**
 1. Active cases provided as PCR/RAT/Total
@@ -74,7 +69,6 @@ This table shows the available information that can be obtained from each offici
 10. Report includes breakdowns of deaths by age and sex, state, detail of cause
 11. Some information requires accessing raw data tables
 12. TAS only provides new admissions for hospital and ICU, not in-Hospital and in-ICU numbers
-13. All data provided in graph form only
 
 **Changelog:**
 
@@ -194,9 +188,26 @@ This table shows the available information that can be obtained from each offici
 	 -  Release cycle and reporting period updated (now fortnightly)
    - Updated datasource TAS - Website
 	 -  Active cases no longer reported
+ - **28/10/2023**
+   - Removed datasource *NSW - Twitter*
+   - Removed datasource *NSW - Website*
+   - Removed datasource *NSW - Risk Monitoring Dashboard*
+   - Updated datasource *NSW - Surveillance Report*
+	 -  Release cycle and reporting period updated (now fortnightly)
+   - Removed datasource *QLD - Surveillance report*
+   - Updated datasource *WA - Surveillance Report*
+	 -  Only PCR cases are included
+   - Updated datasource *SA - Media Release*
+	 -  Deaths are now reported monthly
+   - Updated datasource *SA - Website*
+	 -  Deaths are now reported monthly
+   - Updated datasource *TAS - Surveillance Report*
+	 -  Only PCR cases are reported, total cases by PCR/RAT no longer provided
+   - Updated datasource *National/per-state - Case numbers and statistics*
+	 -  Release cycle updated (now monthly)
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20230924.PNG)
+![Information Available by state](../data/InformationAvailableByState_20231028.PNG)
