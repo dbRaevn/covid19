@@ -27,4 +27,4 @@ Mentions and usage of my work in the media.
 | 11/12/2022 | Article | Stubborn omicron wave sticking around for Christmas | [AFR](https://www.afr.com/policy/health-and-education/stubborn-omicron-wave-sticking-around-for-christmas-20221209-p5c56e) ([Archive](https://archive.vn/dSdJa)) |
 | 20/01/2023 | Article | Australia left with deadly fallout as COVID-19 wave fades | [AFR](https://www.afr.com/policy/health-and-education/australia-left-with-deadly-fallout-as-covid-19-wave-fades-20230120-p5ce8b) ([Archive](https://archive.md/OKyS2)) |
 | 25/01/2023 | Podcast | Coronacast - We're back! So what did we miss? | [ABC](https://www.abc.net.au/radio/programs/coronacast/we-re-back-so-what-did-we-miss/101886254) |
-
+| 08/11/2023 | Article | Life expectancy goes backwards for the first time in 30 years | [Financial Review](https://www.afr.com/policy/health-and-education/life-expectancy-goes-backwards-for-first-time-in-30-years-20231108-p5eii8) ([Archive](https://archive.is/Wg6zP)) |
