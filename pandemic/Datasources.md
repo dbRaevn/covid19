@@ -4,14 +4,10 @@
 
 ## Data sources
 
- * SA	[Twitter](https://twitter.com/SAHealth)
  * SA	[Website](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid-19/response/latest+updates/covid-19+dashboard)
  * SA	[Media Release](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases?mr-sort=date-desc&mr-pg=1)
  * TAS	[Website](https://www.coronavirus.tas.gov.au/facts/tasmanian-statistics)
  * ACT	[Website](https://www.covid19.act.gov.au/updates/act-covid-19-statistics)
- * NT	[Website](https://health.nt.gov.au/covid-19/data)
- * NSW	[Dataset - (PCR, RAT) Age](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-age-range/resource/4b03bc25-ab4b-46c0-bb3e-0c839c9915c5)
- * NSW	[Dataset - (PCR, RAT) Location](https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/5d63b527-e2b8-4c42-ad6f-677f14433520)
  * QLD	[Dataset - Location, Source](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-location-source-of-infection)
  * QLD	[Dataset - Age](https://www.data.qld.gov.au/dataset/queensland-covid-19-case-line-list-age-groups)
  * QLD	[Dataset - (PCR) Tests](https://www.data.qld.gov.au/dataset/queensland-covid-19-pathology-testing-totals)
@@ -23,6 +19,7 @@
  * National	[Epidemiology Report](https://www1.health.gov.au/internet/main/publishing.nsf/Content/novel_coronavirus_2019_ncov_weekly_epidemiology_reports_australia_2020.htm)
  * National	[Mortality Report](https://www.abs.gov.au/statistics/health/causes-death/related-articles)
  * National	[Weekly case numbers and statistics](https://www.health.gov.au/health-alerts/covid-19/case-numbers-and-statistics) (1)
+ * National	[Communicable Disease Surveillance](https://nindss.health.gov.au/pbi-dashboard/)
 
 (1) Use the following javascript bookmark to show the datatables on this page:  
 ```javascript:(function () {document.querySelectorAll('[id^="hc-linkto-highcharts-data-table-"]').forEach(button=>button.click())})()```
@@ -37,7 +34,6 @@ These do not appear in the tables as they provide different kinds of data, but a
 🔵W = Weekly  
 🔵F = Fortnightly  
 🔵M = Monthly  
-🔵T = Total (available weekly)  
 🟢D = Daily  
 🟡A = Daily average over last 7 days  
 🟡# = Mixed/complex  
@@ -54,7 +50,7 @@ These do not appear in the tables as they provide different kinds of data, but a
 
 This table shows the available information that can be obtained from each official data source.
 
-![Information available by data source](../data/InformationByDataSource_20231028.PNG)
+![Information available by data source](../data/InformationByDataSource_20231110.PNG)
 
 **Notes:**
 1. Active cases provided as PCR/RAT/Total
@@ -205,9 +201,18 @@ This table shows the available information that can be obtained from each offici
 	 -  Only PCR cases are reported, total cases by PCR/RAT no longer provided
    - Updated datasource *National/per-state - Case numbers and statistics*
 	 -  Release cycle updated (now monthly)
+ - **10/11/2023**
+   - Removed datasource *NSW - Dataset - (PCR, RAT) Age*
+   - Removed datasource *NSW - Dataset - (PCR, RAT) Location*
+   - Removed datasource *SA - Twitter*
+   - Removed datasource *NT - Website*
+   - Removed datasource *Per-State - Case numbers and statistics*
+   - Updated datasource *National - Case numbers and statistics*
+	 -  Cases and Vent data no longer included
+   - Added datasource *Per-State - Communicable Disease Surveillance*
 
 ### Information Available by state
 
 This table shows the sum of available data for each state across all the sources, at the highest frequency available.
 
-![Information Available by state](../data/InformationAvailableByState_20231028.PNG)
+![Information Available by state](../data/InformationAvailableByState_20231110.PNG)
