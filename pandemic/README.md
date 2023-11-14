@@ -4,29 +4,30 @@ A compilation of datasets, official data sources, reports, outbreak maps and oth
 
 [☕ Support my work](https://www.buymeacoffee.com/dbRaevn)
 
+## Official data sources
+
+[Official COVID-19 data sources](./Datasources.md)
+
+## Official data definitions
+
+[Official COVID-19 data definitions](./Definitions.md)
+
+## Datasets - National
+
+ * AUS - COVID-19 Monthly data [(XLSX)](./AUS_COVID19Data_Monthly.xlsx)
+ * AUS - COVID-19 Case data [(XLSX)](./AUS_COVID19Cases.xlsx)
+ * AUS - Aged Care [(CSV)](./AUS_AgedCare.csv)
+
+## Datasets - State
+
+ * VIC - Ambulance Code Red events [(CSV)](./VIC/VIC_AmbulanceCodeRed.csv)
+
 ## Datasets - Pandemic Directions
 
 | State | Declarations | Directions | Lockdowns | Lockdown Populations |
 |---|:-:|:-:|:-:|:-:|
 | NT | [CSV](./NT/NT_PublicHealthEmergencyDeclaration.csv) | [CSV](./NT/NT_PandemicDirections.csv) | [CSV](./NT/NT_Lockdowns.csv) | [CSV](./NT/NT_LockdownPopulations.csv) |
 | VIC | |  [CSV](./VIC/VIC_PandemicDirections_Partial.csv) (Partial) | | |
-
-(Other states in progress)
-
-## Datasets - Other (National)
-
- * AUS - COVID-19 data [(XLSX)](./AUS_COVID19Data.xlsx)
- * AUS - Aged Care [(CSV)](./AUS_AgedCare.csv)
-
-## Datasets - Other (State)
-
- * VIC - Ambulance Code Red events [(CSV)](./VIC/VIC_AmbulanceCodeRed.csv)
-
-### Discontinued datasets
-
- * VIC - Daily COVID-19 Data [(CSV)](./VIC/VIC_DailyData.csv)
- * VIC - Hospitalised COVID-19 cases by age group [(CSV)](./VIC/VIC_HospitalisedByAge.csv)
- * VIC - Cumulative COVID-19 deaths by age group [(CSV)](./VIC/VIC_DeathsByAge.csv)
 
 ## Dataset Guides
 
@@ -35,13 +36,12 @@ For details on definitions and what the data contained within each dataset is, r
  * [VIC - Dataset guide](./VIC/README.md)
  * [NT - Dataset guide](./NT/README.md)
 
-## Official data sources
+### Discontinued datasets
 
-[Official COVID-19 data sources](./Datasources.md)
-
-## Official data definitions
-
-[Official COVID-19 data definitions](./Definitions.md)
+ * AUS - COVID-19 data [(XLSX)](./AUS_COVID19Data.xlsx)
+ * VIC - Daily COVID-19 Data [(CSV)](./VIC/VIC_DailyData.csv)
+ * VIC - Hospitalised COVID-19 cases by age group [(CSV)](./VIC/VIC_HospitalisedByAge.csv)
+ * VIC - Cumulative COVID-19 deaths by age group [(CSV)](./VIC/VIC_DeathsByAge.csv)
 
 ## Reports (Twitter)
 
